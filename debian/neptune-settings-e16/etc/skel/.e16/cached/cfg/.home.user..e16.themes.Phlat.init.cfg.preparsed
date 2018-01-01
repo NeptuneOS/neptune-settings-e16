@@ -1,0 +1,38 @@
+1001 1
+5 999;  100 STARTUP_BACKGROUND
+  560 "30 30 90"
+  561 "artwork/common/tile.png" 1 1 0 0 0 0
+1000
+12 999
+  100 STARTUP_BAR
+  5 "artwork/dragbar/dragbar_horiz.png"
+  357 2 2 2 2
+1000
+12 999
+  100 PROGRESS_BAR
+  5 "artwork/common/text_bg.png"
+  357 4 4 4 4
+  358 4 4 0 0
+  352 "artwork/common/text_bg.png"
+  357 4 4 4 4
+  358 4 4 0 0
+  354 "artwork/common/text_bg.png"
+  357 4 4 4 4
+  358 4 4 0 0
+1000
+1 999
+  100 PROGRESS_TEXT
+  201 512
+  5 "*font-init"
+  204 0
+  205 120 120 120
+  206 0 0 0
+1000
+1 999
+  100 PROGRESS_TEXT_NUMBER
+  201 512
+  5 "*font-init"
+  204 0
+  205 120 120 120
+  206 0 0 0
+1000

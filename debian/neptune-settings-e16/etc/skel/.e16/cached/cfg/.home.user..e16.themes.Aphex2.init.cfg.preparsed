@@ -1,0 +1,36 @@
+1001 1
+5 999;  100 STARTUP_BACKGROUND
+  560 "30 30 90"
+  561 "artwork/backgrounds/v_stone_slab.jpg" 1 0 0 0 0 1024
+1000
+12 999
+  100 STARTUP_BAR
+  5 "artwork/dragbar/dragbar_h.png"
+  357 2 2 2 2
+1000
+12 999
+  100 PROGRESS_BAR
+  5 "artwork/dragbar/dragbar_h-.png"
+  357 2 2 2 2
+  352 "artwork/dragbar/dragbar_h.png"
+  357 2 2 2 2
+  354 "artwork/dragbar/dragbar_h-.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+1 999
+  100 PROGRESS_TEXT
+  201 0
+  5 "*font-init"
+  204 0
+  205 255 255 255
+  206 0 0 0
+1000
+1 999
+  100 PROGRESS_TEXT_NUMBER
+  201 512
+  5 "*font-init"
+  204 0
+  205 255 255 255
+  206 0 0 0
+1000

@@ -1,0 +1,16 @@
+Xft.autohint: 0 
+Xft.lcdfilter: lcddefault 
+Xft.hintstyle: hintslight 
+Xft.hinting: 1 
+Xft.antialias: 1 
+Xft.dpi: 96 
+Xft.rgba: rgb
+
+URxvt*font: xft:Monospace:pixelsize=12
+URxvt*boldFont: xft:Monospace:bold:pixelsize=12
+URxvt*background: rgba:2000/2000/2000/dddd
+URxvt*foreground: white
+URxvt*depth: 32
+URxvt*fade: 20
+URxvt*name: Terminal
+URxvt*scrollBar: false

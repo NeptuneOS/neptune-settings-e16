@@ -1,0 +1,6 @@
+1001 1
+9 999
+ "SOUND_STARTUP" "audio/samples/login.wav"
+ "SOUND_EXIT" "audio/samples/logout.wav"
+ "SOUND_BUTTON_CLICK" "audio/samples/click.wav"
+1000

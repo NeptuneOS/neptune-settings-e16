@@ -1,0 +1,6 @@
+1001 1
+14 999;  100 "FRAME""_MATCH";  480 "FRAME";  486 1;  1000
+14 999;  100 "FRAME""_MATCH";  480 "FRAME";  487 1;  488 1;1000
+14 999;  100 "FRAME""_MATCH";  480 "FRAME";  489 1;1000
+14 999;  100  "TITLEBAR_BUTTONLESS""_MATCH";  480  "TITLEBAR_BUTTONLESS";  483 "DOX:*";1000
+12 999;  100  "artwork/wait1.png""_ICLASS";  5  "artwork/wait1.png";1000;14 999;  100  "artwork/wait1.png""_MATCH";  490  "artwork/wait1.png""_ICLASS";  482 "XClock";1000

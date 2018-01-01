@@ -1,0 +1,4 @@
+"SSH-Tools"
+"Connect To" "/usr/share/pixmaps/online.png" exec "/usr/share/applications/SSH_Tools-connect.sh"
+"Mountpoint To Remote Directory" "/usr/share/pixmaps/sshfs.png" exec "/usr/share/applications/SSH_Tools-sshfs.sh"
+"Registered Machine" "/usr/share/pixmaps/server.png" exec "/usr/share/applications/SSH_Tools-register-machine.sh"

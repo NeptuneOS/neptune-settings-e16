@@ -1,0 +1,7 @@
+"User Application List"
+"Terminal" NULL exec "urxvt"
+"Chromium" NULL exec "chromium"
+"VLC" NULL exec "vlc"
+"Filemanager" NULL exec "dolphin"
+"Configure Network" NULL exec "urxvt -e nmtui"
+

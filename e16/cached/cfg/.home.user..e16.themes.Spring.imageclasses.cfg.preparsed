@@ -1,0 +1,896 @@
+1001 1
+12 999
+  100 TOP
+  5 "artwork/borders/border-t_off.png"
+  357 6 6 6 2
+  354 "artwork/borders/border-t_on.png"
+  357 6 6 6 2
+  359 "artwork/borders/border-t_off.png"
+  357 6 6 6 2
+  362 "artwork/borders/border-t_on.png"
+  357 6 6 6 2
+  358 9 50 6 5
+1000
+12 999
+  100 TOP_TEXT
+  5 "artwork/borders/border-text-t_off.png"
+  354 "artwork/borders/border-text-t_on.png"
+  359 "artwork/borders/border-text-t_off.png"
+  362 "artwork/borders/border-text-t_on.png"
+  358 1 5 6 5
+1000
+12 999
+  100 CLOSE
+  5 "artwork/borders/border-exit_off.png"
+  357 0 0 0 0
+  354 "artwork/borders/border-exit_on.png"
+  357 0 0 0 0
+  356 "artwork/borders/border-exit_hi-off.png"
+  357 0 0 0 0
+  355 "artwork/borders/border-exit_hi-on.png"
+  357 0 0 0 0
+  359 "artwork/borders/border-exit_off.png"
+  357 0 0 0 0
+  362 "artwork/borders/border-exit_on.png"
+  357 0 0 0 0
+  364 "artwork/borders/border-exit_hi-off.png"
+  357 0 0 0 0
+  363 "artwork/borders/border-exit_hi-on.png"
+  357 0 0 0 0
+1000
+12 999
+  100 MAX
+  5 "artwork/borders/border-maxi_off.png"
+  357 0 0 0 0
+  354 "artwork/borders/border-maxi_on.png"
+  357 0 0 0 0
+  356 "artwork/borders/border-maxi_hi-off.png"
+  357 0 0 0 0
+  355 "artwork/borders/border-maxi_hi-on.png"
+  357 0 0 0 0
+  359 "artwork/borders/border-maxi_off.png"
+  357 0 0 0 0
+  362 "artwork/borders/border-maxi_on.png"
+  357 0 0 0 0
+  364 "artwork/borders/border-maxi_hi-off.png"
+  357 0 0 0 0
+  363 "artwork/borders/border-maxi_hi-on.png"
+  357 0 0 0 0
+1000
+12 999
+  100 ICONIFY
+  5 "artwork/borders/border-mini_off.png"
+  357 0 0 0 0
+  354 "artwork/borders/border-mini_on.png"
+  357 0 0 0 0
+  356 "artwork/borders/border-mini_hi-off.png"
+  357 0 0 0 0
+  355 "artwork/borders/border-mini_hi-on.png"
+  357 0 0 0 0
+  359 "artwork/borders/border-mini_off.png"
+  357 0 0 0 0
+  362 "artwork/borders/border-mini_on.png"
+  357 0 0 0 0
+  364 "artwork/borders/border-mini_hi-off.png"
+  357 0 0 0 0
+  363 "artwork/borders/border-mini_hi-on.png"
+  357 0 0 0 0
+1000
+12 999
+  100 SIDE 
+  5 "artwork/borders/border-lr_off.png"
+  357 0 0 0 0
+  354 "artwork/borders/border-lr_on.png"
+  357 0 0 0 0
+1000
+12 999
+  100 BOTTOM
+  5 "artwork/borders/border-b_off.png"
+  357 6 6 2 2
+  354 "artwork/borders/border-b_on.png"
+  357 6 6 2 2
+1000
+12 999
+  100 BL
+  5 "artwork/borders/border-bl_off.png"
+  357 6 2 2 2
+  354 "artwork/borders/border-bl_on.png"
+  357 6 2 2 2
+  359 "artwork/borders/border-bl_off.png"
+  357 6 2 2 2
+  362 "artwork/borders/border-bl_on.png"
+  357 6 2 2 2
+1000
+12 999
+  100 BR
+  5 "artwork/borders/border-br_off.png"
+  357 2 6 2 2
+  354 "artwork/borders/border-br_on.png"
+  357 2 6 2 2
+  359 "artwork/borders/border-br_off.png"
+  357 2 6 2 2
+  362 "artwork/borders/border-br_on.png"
+  357 2 6 2 2
+1000
+12 999
+  100 TOP_ALTERNATIVE
+  5 "artwork/borders/border-altn-t_off.png"
+  357 6 6 6 2
+  354 "artwork/borders/border-altn-t_on.png"
+  357 6 6 6 2
+  359 "artwork/borders/border-altn-t_off.png"
+  357 6 6 6 2
+  362 "artwork/borders/border-altn-t_on.png"
+  357 6 6 6 2
+  358 10 50 5 5
+1000
+12 999
+  100 BOTTOM_ALTERNATIVE
+  5 "artwork/borders/border-altn-b_off.png"
+  357 6 6 2 2
+  354 "artwork/borders/border-altn-b_on.png"
+  357 6 6 2 2
+1000
+12 999
+  100 MENU_TOP
+  5 "artwork/borders/border-menu-t_on.png"
+  357 6 6 2 6
+  358 10 10 5 5
+1000
+12 999
+  100 MENU_TOP_TEXT
+  5 "artwork/borders/border-text-t_on.png"
+  354 "artwork/borders/border-text-t_on.png"
+  359 "artwork/borders/border-text-t_on.png"
+  362 "artwork/borders/border-text-t_on.png"
+  358 1 5 6 5
+1000
+12 999
+  100 MENU_BOTTOM
+  5 "artwork/borders/border-menu-b_on.png"
+  357 6 6 2 6
+1000
+12 999
+  100 MENU_BOTTOM_ALTERNATIVE
+  5 "artwork/borders/border-altn-b_on.png"
+  357 6 6 2 2
+1000
+12 999
+  100 TOP_ICONBOX
+  5 "artwork/borders/border-ibox-t_off.png"
+  357 6 6 6 2
+  354 "artwork/borders/border-ibox-t_on.png"
+  357 6 6 6 2
+  359 "artwork/borders/border-ibox-t_off.png"
+  357 6 6 6 2
+  362 "artwork/borders/border-ibox-t_on.png"
+  357 6 6 6 2
+  358 10 50 5 5
+1000
+12 999
+  100 ICONBOX_TB
+  5 "artwork/borders/border-altn-t_on.png"
+  357 6 6 6 2
+  354 "artwork/borders/border-altn-t_on.png"
+  357 6 6 6 2
+  359 "artwork/borders/border-altn-t_on.png"
+  357 6 6 6 2
+  362 "artwork/borders/border-altn-t_on.png"
+  357 6 6 6 2
+  358 10 50 5 5
+1000
+12 999
+  100 SIDE_L_ICONBOX
+  5 "artwork/borders/border-ibox-l_off.png"
+  357 2 2 2 2
+  354 "artwork/borders/border-ibox-l_on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 SIDE_R_ICONBOX
+  5 "artwork/borders/border-ibox-r_off.png"
+  357 2 2 2 2
+  354 "artwork/borders/border-ibox-r_on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 BL_ICONBOX
+  5 "artwork/borders/border-bl_on.png"
+  357 6 2 2 2
+  354 "artwork/borders/border-bl_on.png"
+  357 6 2 2 2
+  359 "artwork/borders/border-bl_on.png"
+  357 6 2 2 2
+  362 "artwork/borders/border-bl_on.png"
+  357 6 2 2 2
+1000
+12 999
+  100 BR_ICONBOX
+  5 "artwork/borders/border-br_on.png"
+  357 2 6 2 2
+  354 "artwork/borders/border-br_on.png"
+  357 2 6 2 2
+  359 "artwork/borders/border-br_on.png"
+  357 2 6 2 2
+  362 "artwork/borders/border-br_on.png"
+  357 2 6 2 2
+1000
+12 999
+  100 PB1
+  5 "artwork/borders/pager_border-pager-tl.png"
+1000
+12 999
+  100 PB2
+  5 "artwork/borders/pager_border-pager-tm.png"
+  357 0 0 0
+1000
+12 999
+  100 PB3
+  5 "artwork/borders/pager_border-pager-tr.png"
+1000
+12 999
+  100 PB4
+  5 "artwork/borders/pager_border-pager-br.png"
+  357 0 0 0 5
+1000
+12 999
+  100 PB5
+  5 "artwork/borders/pager_border-pager-bm.png"
+  357 2 2 0 0
+1000
+12 999
+  100 PB6
+  5 "artwork/borders/pager_border-pager-bl.png"
+1000
+12 999
+  100 PB7
+  5 "artwork/borders/pager_border-pager-lm.png"
+  357 0 0 0 0
+1000
+12 999
+  100 PB8L
+  5 "artwork/borders/pager_border-pager-lh.png"
+1000
+12 999
+  100 PB8R
+  5 "artwork/borders/pager_border-pager-rh.png"
+1000
+12 999
+  100 RPB1
+  5 "artwork/borders/rightpager_border-rpager-tr.png"
+1000
+12 999
+  100 RPB2
+  5 "artwork/borders/rightpager_border-rpager-tm.png"
+  357 2 2 0 0
+1000
+12 999
+  100 RPB3
+  5 "artwork/borders/rightpager_border-rpager-tl.png"
+1000
+12 999
+  100 RPB4
+  5 "artwork/borders/rightpager_border-rpager-bl.png"
+  357 3 4 6 7
+1000
+12 999
+  100 RPB5
+  5 "artwork/borders/rightpager_border-rpager-bm.png"
+  357 2 2 0 0
+1000
+12 999
+  100 RPB6
+  5 "artwork/borders/rightpager_border-rpager-br.png"
+1000
+12 999
+  100 RPB7
+  5 "artwork/borders/rightpager_border-rpager-rm.png"
+  357 0 0 2 2
+1000
+12 999
+  100 RPB8L
+  5 "artwork/borders/rightpager_border-rpager-lh.png"
+1000
+12 999
+  100 RPB8R
+  5 "artwork/borders/rightpager_border-rpager-rh.png"
+1000
+12 999
+  100 COORDS
+  5 "artwork/common/e-box.png"
+  357 5 5 10 10
+  358 5 5 10 10
+1000
+12 999
+  100 DIALOG
+  5 "artwork/dialogs/dialog-back.png"
+  357 6 5 7 4
+  358 4 4 4 4
+1000
+12 999
+  100 DIALOG_BUTTON
+  5 "artwork/dialogs/dialog-btn_on.png"
+  357 8 8 8 8
+  353 "artwork/dialogs/dialog-btn_hi-off.png"
+  357 8 8 8 8
+  352 "artwork/dialogs/dialog-btn_hi-on.png"
+  357 8 8 8 8
+  358 6 6 6 6
+1000
+12 999
+  100 DIALOG_WIDGET_BUTTON
+  5 "artwork/dialogs/dialog-btn_on.png"
+  357 8 8 8 8
+  353 "artwork/dialogs/dialog-btn_hi-off.png"
+  357 8 8 8 8
+  352 "artwork/dialogs/dialog-btn_hi-on.png"
+  357 8 8 8 8
+  358 6 6 6 6
+1000
+12 999
+  100 DIALOG_WIDGET_CHECK_BUTTON
+  5 "artwork/dialogs/dialog-chk_on.png"
+  357 70 70 70 0
+  354 "artwork/dialogs/dialog-chkm_on.png"
+  357 70 70 70 0
+  353 "artwork/dialogs/dialog-chk_hi-off.png"
+  357 70 70 70 0
+  356 "artwork/dialogs/dialog-chkm_hi-off.png"
+  357 70 70 70 0
+  352 "artwork/dialogs/dialog-chk_hi-on.png"
+  357 70 70 70 0
+  355 "artwork/dialogs/dialog-chkm_hi-on.png"
+  357 70 70 70 0
+  358 4 4 4 4
+1000
+12 999
+  100 DIALOG_WIDGET_RADIO_BUTTON
+  5 "artwork/dialogs/dialog-rad_on.png"
+  357 70 70 70 0
+  354 "artwork/dialogs/dialog-radm_on.png"
+  357 70 70 70 0
+  353 "artwork/dialogs/dialog-rad_hi-off.png"
+  357 70 70 70 0
+  356 "artwork/dialogs/dialog-radm_hi-off.png"
+  357 70 70 70 0
+  352 "artwork/dialogs/dialog-rad_hi-on.png"
+  357 70 70 70 0
+  355 "artwork/dialogs/dialog-radm_hi-on.png"
+  357 70 70 70 0
+  358 4 4 4 4
+1000
+12 999
+  100 DIALOG_WIDGET_SLIDER_BASE_HORIZONTAL
+  5 "artwork/dialogs/dialog-slideh_on.png"
+  357 8 6 8 6
+  358 4 4 1 1
+1000
+12 999
+  100 DIALOG_WIDGET_SLIDER_KNOB_HORIZONTAL
+  5 "artwork/dialogs/dialog-grabh_on.png"
+  357 4 4 4 4
+  354 "artwork/dialogs/dialog-grabh_on.png"
+  357 4 4 4 4
+  353 "artwork/dialogs/dialog-grabh_hi-off.png"
+  357 4 4 4 4
+  356 "artwork/dialogs/dialog-grabh_hi-off.png"
+  357 4 4 4 4
+  352 "artwork/dialogs/dialog-grabh_hi-on.png"
+  357 4 4 4 4
+  358 4 4 3 4
+1000
+12 999
+  100 DIALOG_WIDGET_SLIDER_BASE_VERTICAL
+  5 "artwork/dialogs/dialog-slidev_on.png"
+  357 8 8 8 8
+  358 4 4 1 1
+1000
+12 999
+  100 DIALOG_WIDGET_SLIDER_KNOB_VERTICAL
+  5 "artwork/dialogs/dialog-grabv_on.png"
+  357 4 4 4 4
+  354 "artwork/dialogs/dialog-grabv_on.png"
+  357 4 4 4 4
+  353 "artwork/dialogs/dialog-grabv_hi-off.png"
+  357 4 4 4 4
+  356 "artwork/dialogs/dialog-grabv_hi-off.png"
+  357 4 4 4 4
+  352 "artwork/dialogs/dialog-grabv_hi-on.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 DIALOG_WIDGET_SEPARATOR
+  5 "artwork/dialogs/dialog-separator.png"
+  357 1 1 1 1
+  358 1 1 1 1
+1000
+12 999
+  100 DIALOG_WIDGET_TABLE
+  5 "artwork/dialogs/dialog-table.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 DIALOG_WIDGET_AREA
+  5 "artwork/dialogs/dialog-setborder.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 SETTINGS_DESKTOP_AREA
+  5 "artwork/dialogs/dialog-setback.png"
+  357 6 5 7 4  
+  358 1 1 1 1
+1000
+12 999
+  100 SETTINGS_AREA_AREA
+  5 "artwork/dialogs/dialog-setback.png"
+  357 6 5 7 4  
+  358 1 1 1 1
+1000
+12 999
+  100 SETTINGS_AREADESK_AREA
+  5 "artwork/dialogs/dialog-setarea.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 DEFAULT_DOCK_BUTTON
+  5 "artwork/dialogs/dialog-btn_hi-off.png"
+  357 4 4 4 4
+  352 "artwork/dialogs/dialog-btn_hi-on.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 DESKTOP_DRAGBUTTON_HORIZ
+  5 "artwork/dragbar/dragbarh.png"
+  357 3 4 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 DESKTOP_RAISEBUTTON_HORIZ
+  5 "artwork/dragbar/dragbar-arw-d_off.png"
+  357 1 1 1 2
+  352 "artwork/dragbar/dragbar-arw-d_on.png"
+  357 1 1 1 2
+  358 1 1 1 1
+1000
+12 999
+  100 DESKTOP_LOWERBUTTON_HORIZ
+  5 "artwork/dragbar/dragbar-arw-u_off.png"
+  357 1 1 1 2
+  352 "artwork/dragbar/dragbar-arw-u_on.png"
+  357 1 1 1 2
+  358 1 1 1 1
+1000
+12 999
+  100 DESKTOP_DESKRAY_HORIZ
+  5 "artwork/dragbar/dragbarh.png"
+  357 3 4 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 DESKTOP_DRAGBUTTON_VERT
+  5 "artwork/dragbar/dragbarv.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 DESKTOP_RAISEBUTTON_VERT
+  5 "artwork/dragbar/dragbar-arw-l_off.png"
+  357 1 1 1 2
+  352 "artwork/dragbar/dragbar-arw-l_on.png"
+  357 1 1 1 2
+  358 1 1 1 1
+1000
+12 999
+  100 DESKTOP_LOWERBUTTON_VERT
+  5 "artwork/dragbar/dragbar-arw-r_off.png"
+  357 1 1 1 2
+  352 "artwork/dragbar/dragbar-arw-r_on.png"
+  357 1 1 1 2
+  358 1 1 1 1
+1000
+12 999
+  100 DESKTOP_DESKRAY_VERT
+  5 "artwork/dragbar/dragbarv.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 EPPLET_BACKGROUND_HORIZONTAL
+  5 "artwork/epplets/epp-back.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_BACKGROUND_VERTICAL
+  5 "artwork/epplets/epp-back.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_DRAWINGAREA
+  5 "artwork/epplets/epp-draw.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_BUTTON
+  5 "artwork/epplets/epp-btn_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-btn_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-btn_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_TOGGLEBUTTON_OFF
+  5 "artwork/epplets/epp-btn_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-btn_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-btn_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_TOGGLEBUTTON_ON
+  5 "artwork/epplets/epp-btnm_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-btn_hi-on.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-btn_hi-off.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_POPUP_BASE
+  5 "artwork/epplets/epp-list.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_POPUP_ENTRY
+  5 "artwork/epplets/epp-btn_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-btn_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-btn_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_CLOSE
+  5 "artwork/epplets/epp-exit_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-exit_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-exit_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_CONFIGURE
+  5 "artwork/epplets/epp-conf_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-conf_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-conf_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_HELP
+  5 "artwork/epplets/epp-help_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-help_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-help_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_ARROW_UP
+  5 "artwork/epplets/epp-arw-u_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-arw-u_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-arw-u_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_ARROW_DOWN
+  5 "artwork/epplets/epp-arw-d_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-arw-d_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-arw-d_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_ARROW_LEFT
+  5 "artwork/epplets/epp-arw-l_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-arw-l_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-arw-l_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_ARROW_RIGHT
+  5 "artwork/epplets/epp-arw-r_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-arw-r_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-arw-r_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_PLAY
+  5 "artwork/epplets/epp-play_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-play_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-play_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_PAUSE
+  5 "artwork/epplets/epp-wait_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-wait_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-wait_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_STOP
+  5 "artwork/epplets/epp-stop_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-stop_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-stop_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_PREVIOUS
+  5 "artwork/epplets/epp-prev_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-prev_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-prev_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_NEXT
+  5 "artwork/epplets/epp-next_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-next_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-next_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_REWIND
+  5 "artwork/epplets/epp-rwnd_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-rwnd_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-rwnd_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_FAST_FORWARD
+  5 "artwork/epplets/epp-forw_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-forw_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-forw_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_REPEAT
+  5 "artwork/epplets/epp-rpt_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-rpt_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-rpt_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_SKIP
+  5 "artwork/epplets/epp-skip_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-skip_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-skip_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_EJECT
+  5 "artwork/epplets/epp-ejct_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-ejct_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-ejct_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_HSLIDER_BASE
+  5 "artwork/epplets/epp-slideh_on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_HSLIDER_KNOB
+  5 "artwork/epplets/epp-grab_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-grab_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-grab_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_HBAR_BASE
+  5 "artwork/epplets/epp-draw.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_HBAR_BAR
+  5 "artwork/epplets/epp-slideh_on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_VSLIDER_BASE
+  5 "artwork/epplets/epp-slidev_on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_VSLIDER_KNOB
+  5 "artwork/epplets/epp-grab_on.png"
+  357 2 2 2 2
+  353 "artwork/epplets/epp-grab_hi-off.png"
+  357 2 2 2 2
+  352 "artwork/epplets/epp-grab_hi-on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_VBAR_BASE
+  5 "artwork/epplets/epp-draw.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_VBAR_BAR
+  5 "artwork/epplets/epp-slidev_on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 WARPFOCUS
+  5 "artwork/focuslist/focus-box_on.png"
+  357 10 10 10 10
+  352 "artwork/focuslist/focus-box_hi-on.png"
+  357 10 10 10 10
+  358 11 12 5 5
+1000
+12 999
+  100 ICONBOX_HORIZONTAL
+  5 "artwork/iconbox/ibox-back.png"
+  357 6 2 9 2
+  358 4 4 4 4
+1000
+12 999
+  100 ICONBOX_SCROLLBAR_BASE_HORIZONTAL
+  5 "artwork/iconbox/ibox-scrollbase.png"
+  357 1 1 1 1
+1000
+12 999
+  100 ICONBOX_SCROLLBAR_KNOB_HORIZONTAL
+  5 "artwork/iconbox/ibox-scrollh_on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 ICONBOX_SCROLLKNOB_HORIZONTAL
+  5 "artwork/iconbox/ibox-grab_on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 ICONBOX_VERTICAL
+  5 "artwork/iconbox/ibox-back.png"
+  357 6 2 9 2
+  358 4 4 4 4
+1000
+12 999
+  100 ICONBOX_SCROLLBAR_BASE_VERTICAL
+  5 "artwork/iconbox/ibox-scrollbase.png"
+  357 1 1 1 1
+1000
+12 999
+  100 ICONBOX_SCROLLBAR_KNOB_VERTICAL
+  5 "artwork/iconbox/ibox-scrollv_on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 ICONBOX_SCROLLKNOB_VERTICAL
+  5 "artwork/iconbox/ibox-grab_on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 ICONBOX_ARROW_UP
+  5 "artwork/iconbox/ibox-empty.png"
+  352 "artwork/iconbox/ibox-empty.png"
+1000
+12 999
+  100 ICONBOX_ARROW_DOWN
+  5 "artwork/iconbox/ibox-empty.png"
+  352 "artwork/iconbox/ibox-empty.png"
+1000
+12 999
+  100 ICONBOX_ARROW_LEFT
+  5 "artwork/iconbox/ibox-empty.png"
+  352 "artwork/iconbox/ibox-empty.png"
+1000
+12 999
+  100 ICONBOX_ARROW_RIGHT
+  5 "artwork/iconbox/ibox-empty.png"
+  352 "artwork/iconbox/ibox-empty.png"
+1000
+12 999
+  100 DEFAULT_ICON_BUTTON
+  5 "artwork/common/e-box.png"
+  357 15 15 10 10
+  358 2 2 10 10
+1000
+12 999
+  100 MENU_BG
+  5 "artwork/dialogs/dialog-back.png"
+  357 2 2 2 2  
+  358 1 1 2 2
+1000
+12 999
+  100 MENU_SEL
+  5 "artwork/menustyles/menu_hi-off.png"
+  357 6 22 1 1
+  353 "artwork/menustyles/menu_hi-off.png"
+  357 6 22 2 1
+  352 "artwork/menustyles/menu_hi-off.png"
+  357 6 22 1 1
+  358 6 22 1 1
+1000
+12 999
+  100 MENU_SUB
+  5 "artwork/menustyles/menu-arw_on.png"
+  357 6 22 1 1
+  353 "artwork/menustyles/menu-arw_hi-off.png"
+  357 6 22 1 1
+  352 "artwork/menustyles/menu-arw_hi-off.png"
+  357 6 22 1 1
+  358 6 22 1 1
+1000
+12 999
+  100 PAGER_BACKGROUND
+  5 "artwork/pager/pager-back.png"
+  357 5 5 6 2
+1000
+12 999
+  100 PAGER_SEL
+  5 "artwork/pager/pager-select.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12 999
+  100 PAGER_WIN
+  5 "artwork/pager/pager-window.png"
+  357 6 6 6 6
+1000
+12 999
+  100 TT_MAIN
+  5 "artwork/tooltips/tooltip-box.png"
+  357 9 9 9 9
+  358 6 8 8 12
+1000
+12 999
+  100 TT_LOGO
+  5 "artwork/common/e-blank.png"
+1000
+12 999
+  100 TT_BLANK
+  5 "artwork/common/e-blank.png"
+1000
+12 999
+  100 TT_MINI
+  5 "artwork/common/e-box.png"
+  357 8 8 8 8
+  358 5 5 10 10
+1000

@@ -1,0 +1,11 @@
+Package: neptune-settings-e16
+Version: 1.4
+Architecture: all
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Installed-Size: 10258
+Depends: e16
+Recommends: rxvt-unicode, gmrun, tint2, qasmixer, notify-osd, gsimplecal, udiskie
+Section: admin
+Priority: optional
+Description: Settings package for Neptunes e16 low memory mode
+  This package provides the neptune settings for e16.

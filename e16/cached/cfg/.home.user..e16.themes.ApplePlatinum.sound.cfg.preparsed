@@ -1,0 +1,6 @@
+1001 1
+9 999
+ "SOUND_STARTUP" "audio/macstart.wav"
+ "SOUND_SHADE" "audio/shade_up.wav"
+ "SOUND_UNSHADE" "audio/shade_down.wav"
+1000

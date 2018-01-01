@@ -1,0 +1,952 @@
+1001 1
+12 999
+  100 RESIZE_HANDLE
+  5 "artwork/borders/default_resize_handle.png"
+  354 "artwork/borders/default_resize_handle.png"
+  356 "artwork/borders/default_resize_handle.png"
+  355 "artwork/borders/default_resize_handle.png"
+  359 "artwork/borders/default_resize_handle_stick.png"
+  362 "artwork/borders/default_resize_handle_stick.png"
+  364 "artwork/borders/default_resize_handle_stick.png"
+  363 "artwork/borders/default_resize_handle_stick.png"
+1000
+12 999
+  100 RESIZE_HANDLE_STEEL
+  5 "artwork/borders/default_resize_handle_stick.png"
+  354 "artwork/borders/default_resize_handle_stick.png"
+  356 "artwork/borders/default_resize_handle_stick.png"
+  355 "artwork/borders/default_resize_handle_stick.png"
+  359 "artwork/borders/default_resize_handle_stick.png"
+  362 "artwork/borders/default_resize_handle_stick.png"
+  364 "artwork/borders/default_resize_handle_stick.png"
+  363 "artwork/borders/default_resize_handle_stick.png"
+1000
+12 999
+  100 BUTTON_RED
+  5 "artwork/borders/default_button_inactive.png"
+  354 "artwork/borders/default_button_red.png"
+  356 "artwork/borders/default_button_red_hi.png"
+  355 "artwork/borders/default_button_red_down.png"
+  359 "artwork/borders/default_button_clear2_stick.png"
+  362 "artwork/borders/default_button_red_stick.png"
+  364 "artwork/borders/default_button_red_stick_hi.png"
+  363 "artwork/borders/default_button_red_stick_down.png"
+1000
+12 999
+  100 BUTTON_YELLOW
+  5 "artwork/borders/default_button_inactive.png"
+  354 "artwork/borders/default_button_yellow.png"
+  356 "artwork/borders/default_button_yellow_hi.png"
+  355 "artwork/borders/default_button_yellow_down.png"
+  359 "artwork/borders/default_button_clear2_stick.png"
+  362 "artwork/borders/default_button_yellow_stick.png"
+  364 "artwork/borders/default_button_yellow_stick_hi.png"
+  363 "artwork/borders/default_button_yellow_stick_down.png"
+1000
+12 999
+  100 BUTTON_GREEN
+  5 "artwork/borders/default_button_inactive.png"
+  354 "artwork/borders/default_button_green.png"
+  356 "artwork/borders/default_button_green_hi.png"
+  355 "artwork/borders/default_button_green_down.png"
+  359 "artwork/borders/default_button_clear2_stick.png"
+  362 "artwork/borders/default_button_green_stick.png"
+  364 "artwork/borders/default_button_green_stick_hi.png"
+  363 "artwork/borders/default_button_green_stick_down.png"
+1000
+12 999
+  100 BUTTON_CLEAR
+  5 "artwork/borders/default_button_inactive.png"
+  354 "artwork/borders/default_button_clear.png"
+  356 "artwork/borders/default_button_clear_hi.png"
+  355 "artwork/borders/default_button_clear_down.png"
+  359 "artwork/borders/default_button_clear_stick.png"
+  362 "artwork/borders/default_button_clear_stick.png"
+  364 "artwork/borders/default_button_clear_stick_hi.png"
+  363 "artwork/borders/default_button_clear_stick_down.png"
+1000
+12 999
+  100 TITLE_BAR
+  5 "artwork/borders/default_titlebar.png"
+  357 6 6 1 1
+  354 "artwork/borders/default_titlebar_active.png"
+  357 6 6 1 1
+  359 "artwork/borders/default_titlebar_stick.png"
+  357 6 6 1 1
+  362 "artwork/borders/default_titlebar_stick_active.png"
+  357 6 6 1 1
+1000
+12 999
+  100 TITLE
+  5 "artwork/borders/default_title.png"
+  354 "artwork/borders/default_title_active.png"
+  358 0 0 5 0
+  359 "artwork/borders/default_title_stick.png"
+  362 "artwork/borders/default_title_stick_active.png"
+1000
+12 999
+  100 TITLE_BAR_MASK
+  5 "artwork/borders/default_titlebar_mask.png"
+  357 6 6 1 1
+  354 "artwork/borders/default_titlebar_mask_active.png"
+  357 6 6 1 1
+  359 "artwork/borders/default_titlebar_stick_mask.png"
+  357 6 6 1 1
+  362 "artwork/borders/default_titlebar_stick_mask_active.png"
+  357 6 6 1 1
+1000
+12 999
+  100 BUTTON_RED_STEEL
+  5 "artwork/borders/default_button_clear2_stick.png"
+  354 "artwork/borders/default_button_red_stick.png"
+  356 "artwork/borders/default_button_red_stick_hi.png"
+  355 "artwork/borders/default_button_red_stick_down.png"
+  359 "artwork/borders/default_button_clear2_stick.png"
+  362 "artwork/borders/default_button_red_stick.png"
+  364 "artwork/borders/default_button_red_stick_hi.png"
+  363 "artwork/borders/default_button_red_stick_down.png"
+1000
+12 999
+  100 BUTTON_YELLOW_STEEL
+  5 "artwork/borders/default_button_clear2_stick.png"
+  354 "artwork/borders/default_button_yellow_stick.png"
+  356 "artwork/borders/default_button_yellow_stick_hi.png"
+  355 "artwork/borders/default_button_yellow_stick_down.png"
+  359 "artwork/borders/default_button_clear2_stick.png"
+  362 "artwork/borders/default_button_yellow_stick.png"
+  364 "artwork/borders/default_button_yellow_stick_hi.png"
+  363 "artwork/borders/default_button_yellow_stick_down.png"
+1000
+12 999
+  100 BUTTON_GREEN_STEEL
+  5 "artwork/borders/default_button_clear2_stick.png"
+  354 "artwork/borders/default_button_green_stick.png"
+  356 "artwork/borders/default_button_green_stick_hi.png"
+  355 "artwork/borders/default_button_green_stick_down.png"
+  359 "artwork/borders/default_button_clear2_stick.png"
+  362 "artwork/borders/default_button_green_stick.png"
+  364 "artwork/borders/default_button_green_stick_hi.png"
+  363 "artwork/borders/default_button_green_stick_down.png"
+1000
+12 999
+  100 BUTTON_CLEAR_STEEL
+  5 "artwork/borders/default_button_clear_stick.png"
+  354 "artwork/borders/default_button_clear_stick.png"
+  356 "artwork/borders/default_button_clear_stick_hi.png"
+  355 "artwork/borders/default_button_clear_stick_down.png"
+  359 "artwork/borders/default_button_clear_stick.png"
+  362 "artwork/borders/default_button_clear_stick.png"
+  364 "artwork/borders/default_button_clear_stick_hi.png"
+  363 "artwork/borders/default_button_clear_stick_down.png"
+1000
+12 999
+  100 TITLE_BAR_STEEL
+  5 "artwork/borders/default_titlebar_stick.png"
+  357 6 6 1 1
+  354 "artwork/borders/default_titlebar_stick_active.png"
+  357 6 6 1 1
+  359 "artwork/borders/default_titlebar_stick.png"
+  357 6 6 1 1
+  362 "artwork/borders/default_titlebar_stick_active.png"
+  357 6 6 1 1
+1000
+12 999
+  100 TITLE_STEEL
+  5 "artwork/borders/default_title_stick.png"
+  354 "artwork/borders/default_title_stick_active.png"
+  358 0 0 5 0
+  359 "artwork/borders/default_title_stick.png"
+  362 "artwork/borders/default_title_stick_active.png"
+1000
+12 999
+  100 TITLE_BAR_MASK_STEEL
+  5 "artwork/borders/default_titlebar_stick_mask.png"
+  357 6 6 1 1
+  354 "artwork/borders/default_titlebar_stick_mask_active.png"
+  357 6 6 1 1
+  359 "artwork/borders/default_titlebar_stick_mask.png"
+  357 6 6 1 1
+  362 "artwork/borders/default_titlebar_stick_mask_active.png"
+  357 6 6 1 1
+1000
+12 999
+  100 SMALL_BUTTON_RED
+  5 "artwork/borders/small_button_inactive.png"
+  354 "artwork/borders/small_button_red.png"
+  356 "artwork/borders/small_button_red_hi.png"
+  355 "artwork/borders/small_button_red_down.png"
+  359 "artwork/borders/small_button_clear.png"
+  362 "artwork/borders/small_button_red.png"
+  364 "artwork/borders/small_button_red_hi.png"
+  363 "artwork/borders/small_button_red_down.png"
+1000
+12 999
+  100 SMALL_BUTTON_YELLOW
+  5 "artwork/borders/small_button_inactive.png"
+  354 "artwork/borders/small_button_yellow.png"
+  356 "artwork/borders/small_button_yellow_hi.png"
+  355 "artwork/borders/small_button_yellow_down.png"
+  359 "artwork/borders/small_button_clear.png"
+  362 "artwork/borders/small_button_yellow.png"
+  364 "artwork/borders/small_button_yellow_hi.png"
+  363 "artwork/borders/small_button_yellow_down.png"
+1000
+12 999
+  100 SMALL_BUTTON_CLEAR
+  5 "artwork/borders/small_button_inactive.png"
+  354 "artwork/borders/small_button_clear.png"
+  356 "artwork/borders/small_button_clear_hi.png"
+  355 "artwork/borders/small_button_clear_down.png"
+  359 "artwork/borders/small_button_clear.png"
+  362 "artwork/borders/small_button_clear.png"
+  364 "artwork/borders/small_button_clear_hi.png"
+  363 "artwork/borders/small_button_clear_down.png"
+1000
+12 999
+  100 SMALL_TITLE
+  5 "artwork/borders/small_title.png"
+  357 1 1 1 1
+  354 "artwork/borders/small_title.png"
+  357 1 1 1 1
+  359 "artwork/borders/small_title.png"
+  357 1 1 1 1
+  362 "artwork/borders/small_title.png"
+  357 1 1 1 1
+1000
+12 999
+  100 SMALL_RESIZE_HANDLE
+  5 "artwork/borders/default_resize_handle.png"
+  354 "artwork/borders/default_resize_handle.png"
+  356 "artwork/borders/default_resize_handle.png"
+  355 "artwork/borders/default_resize_handle.png"
+  359 "artwork/borders/default_resize_handle.png"
+  362 "artwork/borders/default_resize_handle.png"
+  364 "artwork/borders/default_resize_handle.png"
+  363 "artwork/borders/default_resize_handle.png"
+1000
+12 999
+  100 COMMON_DEFAULT_LEFT
+  5 "artwork/borders/left_bg.png"
+  357 0 0 0 0
+  353 "artwork/borders/left_bg.png"
+  357 0 0 0 0
+  352 "artwork/borders/left_bg.png"
+  357 0 0 0 0
+  354 "artwork/borders/left_fg.png"
+  357 0 0 0 0
+  356 "artwork/borders/left_fg.png"
+  357 0 0 0 0
+  355 "artwork/borders/left_fg.png"
+  357 0 0 0 0
+  359 "artwork/borders/left_bg.png"
+  357 0 0 0 0
+  361 "artwork/borders/left_bg.png"
+  357 0 0 0 0
+  360 "artwork/borders/left_bg.png"
+  357 0 0 0 0
+  362 "artwork/borders/left_fg.png"
+  357 0 0 0 0
+  364 "artwork/borders/left_fg.png"
+  357 0 0 0 0
+  363 "artwork/borders/left_fg.png"
+  357 0 0 0 0
+1000
+12 999
+  100 COMMON_DEFAULT_RIGHT
+  5 "artwork/borders/right_bg.png"
+  357 0 0 3 3
+  353 "artwork/borders/right_bg.png"
+  357 0 0 3 3
+  352 "artwork/borders/right_bg.png"
+  357 0 0 3 3
+  354 "artwork/borders/right_fg.png"
+  357 0 0 3 3
+  356 "artwork/borders/right_fg.png"
+  357 0 0 3 3
+  355 "artwork/borders/right_fg.png"
+  357 0 0 3 3
+  359 "artwork/borders/right_bg.png"
+  357 0 0 3 3
+  361 "artwork/borders/right_bg.png"
+  357 0 0 3 3
+  360 "artwork/borders/right_bg.png"
+  357 0 0 3 3
+  362 "artwork/borders/right_fg.png"
+  357 0 0 3 3
+  364 "artwork/borders/right_fg.png"
+  357 0 0 3 3
+  363 "artwork/borders/right_fg.png"
+  357 0 0 3 3
+1000
+12 999
+  100 COMMON_FIXED_BOTTOM
+  5 "artwork/borders/fixed_bottom_bg.png"
+  357 4 4 0 0
+  353 "artwork/borders/fixed_bottom_bg.png"
+  357 4 4 0 0
+  352 "artwork/borders/fixed_bottom_bg.png"
+  357 4 4 0 0
+  354 "artwork/borders/fixed_bottom_fg.png"
+  357 4 4 0 0
+  356 "artwork/borders/fixed_bottom_fg.png"
+  357 4 4 0 0
+  355 "artwork/borders/fixed_bottom_fg.png"
+  357 4 4 0 0
+  359 "artwork/borders/fixed_bottom_bg.png"
+  357 4 4 0 0
+  361 "artwork/borders/fixed_bottom_bg.png"
+  357 4 4 0 0
+  360 "artwork/borders/fixed_bottom_bg.png"
+  357 4 4 0 0
+  362 "artwork/borders/fixed_bottom_fg.png"
+  357 4 4 0 0
+  364 "artwork/borders/fixed_bottom_fg.png"
+  357 4 4 0 0
+  363 "artwork/borders/fixed_bottom_fg.png"
+  357 4 4 0 0
+1000
+12 999
+  100 COMMON_VERYSMALL_TOP
+  5 "artwork/borders/transient_title_fg.png"
+  357 6 6 0 0
+  353 "artwork/borders/transient_title_fg.png"
+  357 6 6 0 0
+  352 "artwork/borders/transient_title_fg.png"
+  357 6 6 0 0
+  354 "artwork/borders/transient_title_fg.png"
+  357 6 6 0 0
+  356 "artwork/borders/transient_title_fg.png"
+  357 6 6 0 0
+  355 "artwork/borders/transient_title_fg.png"
+  357 6 6 0 0
+  359 "artwork/borders/transient_title_fg.png"
+  357 6 6 0 0
+  361 "artwork/borders/transient_title_fg.png"
+  357 6 6 0 0
+  360 "artwork/borders/transient_title_fg.png"
+  357 6 6 0 0
+  362 "artwork/borders/transient_title_fg.png"
+  357 6 6 0 0
+  364 "artwork/borders/transient_title_fg.png"
+  357 6 6 0 0
+  363 "artwork/borders/transient_title_fg.png"
+  357 6 6 0 0
+1000
+12 999
+  100 COMMON_TRANSIENT_TITLEBAR
+  5 "artwork/borders/transient_title_bg.png"
+  357 0 0 0 0
+  354 "artwork/borders/transient_title_fg.png"
+  357 0 0 0 0
+  356 "artwork/borders/transient_title_fg.png"
+  357 0 0 0 0
+  355 "artwork/borders/transient_title_fg.png"
+  357 0 0 0 0
+  362 "artwork/borders/transient_title_fg.png"
+  357 0 0 0 0
+  364 "artwork/borders/transient_title_fg.png"
+  357 0 0 0 0
+  363 "artwork/borders/transient_title_fg.png"
+  357 0 0 0 0
+1000
+12 999
+  100 PB1
+  5 "artwork/borders/pb1.png"
+1000
+12 999
+  100 PB2
+  5 "artwork/borders/pb2.png"
+  357 2 2 0 0
+1000
+12 999
+  100 PB3
+  5 "artwork/borders/pb3.png"
+1000
+12 999
+  100 PB4
+  5 "artwork/borders/pb4.png"
+  357 3 4 6 7
+1000
+12 999
+  100 PB5
+  5 "artwork/borders/pb5.png"
+  357 2 2 0 0
+1000
+12 999
+  100 PB6
+  5 "artwork/borders/pb6.png"
+1000
+12 999
+  100 PB7
+  5 "artwork/borders/pb8.png"
+  357 0 0 2 2
+1000
+12 999
+  100 RPB1
+  5 "artwork/borders/rpb1.png"
+1000
+12 999
+  100 RPB2
+  5 "artwork/borders/rpb2.png"
+  357 2 2 0 0
+1000
+12 999
+  100 RPB3
+  5 "artwork/borders/rpb3.png"
+1000
+12 999
+  100 RPB4
+  5 "artwork/borders/rpb4.png"
+  357 3 4 6 7
+1000
+12 999
+  100 RPB5
+  5 "artwork/borders/rpb5.png"
+  357 2 2 0 0
+1000
+12 999
+  100 RPB6
+  5 "artwork/borders/rpb6.png"
+1000
+12 999
+  100 RPB7
+  5 "artwork/borders/rpb8.png"
+  357 0 0 2 2
+1000
+12 999
+  100 COORDS
+  5 "artwork/common/bg.png"
+1000
+12 999
+  100 DIALOG
+  5 "artwork/common/bg.png"
+  371 3
+1000
+12 999
+  100 DIALOG_BUTTON
+  5 "artwork/dialogs/button_up.png"
+  357 14 14 4 7
+  353 "artwork/dialogs/button_down.png"
+  357 14 14 4 7
+  358 14 14 3 6
+  352 "artwork/dialogs/button_down.png"
+  357 14 14 4 7
+  358 14 14 4 7
+1000
+12 999
+  100 DIALOG_WIDGET_BUTTON
+  5 "artwork/dialogs/button_up.png"
+  357 14 14 4 7
+  353 "artwork/dialogs/button_down.png"
+  357 14 14 4 7
+  358 14 14 4 7
+  352 "artwork/dialogs/button_down.png"
+  357 14 14 4 7
+  358 14 14 4 7
+1000
+12 999
+  100 DIALOG_WIDGET_SEPARATOR
+  5 "artwork/dialogs/separator.png"
+  357 1 1 1 1
+  358 1 1 1 1
+1000
+12 999
+  100 DIALOG_WIDGET_CHECK_BUTTON
+  5 "artwork/dialogs/check_off.png"
+  357 0 0 0 0
+  354 "artwork/dialogs/check_on.png"
+  357 0 0 0 0
+  358 4 5 4 5
+1000
+12 999
+  100 DIALOG_WIDGET_RADIO_BUTTON
+  5 "artwork/dialogs/radio_off.png"
+  357 0 0 0 0
+  354 "artwork/dialogs/radio_on.png"
+  357 0 0 0 0
+  358 4 5 4 5
+1000
+12 999
+  100 DIALOG_WIDGET_SLIDER_BASE_HORIZONTAL
+  5 "artwork/dialogs/slider_horiz.png"
+  357 3 3 0 0
+  358 4 4 8 8
+1000
+12 999
+  100 DIALOG_WIDGET_SLIDER_KNOB_HORIZONTAL
+  5 "artwork/dialogs/slider_knob_horiz.png"
+  357 0 0 0 0
+  358 4 5 4 5
+1000
+12 999
+  100 DIALOG_WIDGET_SLIDER_BASE_VERTICAL
+  5 "artwork/dialogs/slider_vert.png"
+  357 0 0 3 3
+  358 8 8 4 4
+1000
+12 999
+  100 DIALOG_WIDGET_SLIDER_KNOB_VERTICAL
+  5 "artwork/dialogs/slider_knob_vert.png"
+  357 0 0 0 0
+  358 4 5 4 5
+1000
+12 999
+  100 DIALOG_WIDGET_AREA
+  5 "artwork/common/bg.png"
+  371 3
+1000
+12 999
+  100 SETTINGS_AREADESK_AREA
+  5 "artwork/dialogs/window.png"
+  357 2 2 2 2
+  358 4 4 4 4
+1000
+12 999
+  100 SETTINGS_DESKTOP_AREA
+  5 "artwork/common/bg.png"
+  371 3
+1000
+12 999
+  100 DIALOG_WIDGET_TABLE
+  5 "artwork/common/bg.png"
+  371 3
+1000
+12 999
+  100 SETTINGS_AREA_AREA
+  5 "artwork/common/bg.png"
+  371 3
+1000
+12 999
+  100 DESKTOP_DRAGBUTTON_HORIZ
+  5 "artwork/dragbar/dragbar_horiz.png"
+  371 3
+1000
+12 999
+  100 DESKTOP_RAISEBUTTON_HORIZ
+  5 "artwork/dragbar/uparrow.png"
+  352 "artwork/dragbar/uparrow_cl.png"
+1000
+12 999
+  100 DESKTOP_LOWERBUTTON_HORIZ
+  5 "artwork/dragbar/downarrow.png"
+  352 "artwork/dragbar/downarrow_cl.png"
+1000
+12 999
+  100 DESKTOP_DESKRAY_HORIZ
+  5 "artwork/dragbar/dragbar_horiz.png"
+  371 3
+  352 "artwork/dragbar/dragbar_horiz.png"
+  371 3
+1000
+12 999
+  100 DESKTOP_DRAGBUTTON_VERT
+  5 "artwork/dragbar/dragbar_vert.png"
+  371 3
+  352 "artwork/dragbar/dragbar_vert.png"
+  371 3
+1000
+12 999
+  100 DESKTOP_RAISEBUTTON_VERT
+  5 "artwork/dragbar/leftarrow.png"
+  352 "artwork/dragbar/leftarrow_cl.png"
+1000
+12 999
+  100 DESKTOP_LOWERBUTTON_VERT
+  5 "artwork/dragbar/rightarrow.png"
+  352 "artwork/dragbar/rightarrow_cl.png"
+1000
+12 999
+  100 DESKTOP_DESKRAY_VERT
+  5 "artwork/dragbar/dragbar_vert.png"
+  371 3
+1000
+12 999
+  100 EPPLET_BACKGROUND_HORIZONTAL
+  5 "artwork/epplets/bg.png"
+  371 2
+1000
+12 999
+  100 EPPLET_BACKGROUND_VERTICAL
+  5 "artwork/epplets/bg.png"
+  371 3
+1000
+12 999
+  100 EPPLET_BUTTON
+  5 "artwork/epplets/b1.png"
+  357 6 6 6 5
+  353 "artwork/epplets/b3.png"
+  357 6 6 6 5
+  352 "artwork/epplets/b3.png"
+  357 6 6 6 5
+1000
+12 999
+  100 EPPLET_TOGGLEBUTTON_OFF
+  5 "artwork/epplets/bb1.png"
+  353 "artwork/epplets/bb1.png"
+  352 "artwork/epplets/bb2.png"
+1000
+12 999
+  100 EPPLET_TOGGLEBUTTON_ON
+  5 "artwork/epplets/bb2.png"
+  353 "artwork/epplets/bb2.png"
+  352 "artwork/epplets/bb1.png"
+1000
+12 999
+  100 EPPLET_DRAWINGAREA
+  5 "artwork/epplets/da.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_HSLIDER_BASE
+  5 "artwork/epplets/s_h.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_HSLIDER_KNOB
+  5 "artwork/epplets/s_k1.png"
+  357 2 2 2 2
+  352 "artwork/epplets/s_k2.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_VSLIDER_BASE
+  5 "artwork/epplets/s_v.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_VSLIDER_KNOB
+  5 "artwork/epplets/s_k1.png"
+  357 2 2 2 2
+  352 "artwork/epplets/s_k2.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_POPUP_BASE
+  5 "artwork/epplets/bg.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_POPUP_ENTRY
+  5 "artwork/epplets/b1.png"
+  357 6 6 6 5
+  353 "artwork/epplets/b1.png"
+  357 6 6 6 5
+  352 "artwork/epplets/b3.png"
+  357 6 6 6 5
+1000
+12 999
+  100 EPPLET_HBAR_BASE
+  5 "artwork/epplets/da.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_HBAR_BAR
+  5 "artwork/epplets/pb_h.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_VBAR_BASE
+  5 "artwork/epplets/da.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_VBAR_BAR
+  5 "artwork/epplets/pb_v.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_ARROW_UP
+  5 "artwork/epplets/ar_u1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/ar_u2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/ar_u3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_ARROW_DOWN
+  5 "artwork/epplets/ar_d1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/ar_d2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/ar_d3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_ARROW_LEFT
+  5 "artwork/epplets/ar_l1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/ar_l2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/ar_l3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_ARROW_RIGHT
+  5 "artwork/epplets/ar_r1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/ar_r2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/ar_r3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_PLAY
+  5 "artwork/epplets/play1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/play2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/play3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_STOP
+  5 "artwork/epplets/stop1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/stop2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/stop3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_PAUSE
+  5 "artwork/epplets/pause1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/pause2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/pause3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_PREVIOUS
+  5 "artwork/epplets/prev1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/prev2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/prev3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_NEXT
+  5 "artwork/epplets/next1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/next2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/next3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_EJECT
+  5 "artwork/epplets/eject1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/eject2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/eject3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_CLOSE
+  5 "artwork/epplets/close1.png"
+  353 "artwork/epplets/close2.png"
+  352 "artwork/epplets/close3.png"
+1000
+12 999
+  100 EPPLET_FAST_FORWARD
+  5 "artwork/epplets/ff1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/ff2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/ff3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_REWIND
+  5 "artwork/epplets/rw1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/rw2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/rw3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_REPEAT
+  5 "artwork/epplets/repeat1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/repeat2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/repeat3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_SKIP
+  5 "artwork/epplets/skip1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/skip2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/skip3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_HELP
+  5 "artwork/epplets/help1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/help2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/help3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_CONFIGURE
+  5 "artwork/epplets/config1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/config2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/config3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 WARPFOCUS
+  5 "artwork/common/bg.png"
+  371 3
+  352 "artwork/common/selected.png"
+  371 3
+1000
+12 999
+  100 ICONBOX_HORIZONTAL
+  5 "artwork/iconbox/background.png"
+  371 3
+1000
+12 999
+  100 ICONBOX_VERTICAL
+  5 "artwork/iconbox/background.png"
+  371 3
+1000
+12 999
+  100 ICONBOX_COVER_VERTICAL
+  5 "artwork/iconbox/ib_cover_v.png"
+  357 6 6 6 6
+  358 4 4 4 4
+1000
+12 999
+  100 ICONBOX_COVER_HORIZONTAL
+  5 "artwork/iconbox/ib_cover_h.png"
+  357 6 6 6 6
+  358 4 4 4 4
+1000
+12 999
+  100 ICONBOX_ARROW_LEFT
+  5 "artwork/iconbox/ar_l.png"
+  357 4 4 4 4
+  352 "artwork/iconbox/ar_l.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 ICONBOX_ARROW_RIGHT
+  5 "artwork/iconbox/ar_r.png"
+  357 4 4 4 4
+  352 "artwork/iconbox/ar_r.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 ICONBOX_ARROW_UP
+  5 "artwork/iconbox/ar_u.png"
+  357 4 4 4 4
+  352 "artwork/iconbox/ar_u.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 ICONBOX_ARROW_DOWN
+  5 "artwork/iconbox/ar_d.png"
+  357 4 4 4 4
+  352 "artwork/iconbox/ar_d.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 ICONBOX_SCROLLBAR_BASE_HORIZONTAL
+  5 "artwork/iconbox/htrough.png"
+  357 5 5 0 0
+1000
+12 999
+  100 ICONBOX_SCROLLBAR_KNOB_HORIZONTAL
+  5 "artwork/iconbox/slh.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 ICONBOX_SCROLLBAR_BASE_VERTICAL
+  5 "artwork/iconbox/vtrough.png"
+  357 1 1 4 4
+  358 1 1 4 4
+1000
+12 999
+  100 ICONBOX_SCROLLBAR_KNOB_VERTICAL
+  5 "artwork/iconbox/slv.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 DEFAULT_ICON_BUTTON
+  5 "artwork/iconbox/bt1.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 MENU_BG
+  5 "artwork/common/bg.png"
+  371 3
+1000
+12 999
+  100 MENU_SUB
+  5 "artwork/menustyles/submenu.png"
+  357 3 8 3 3
+  358 15 15 2 2
+  353 "artwork/menustyles/submenu_selected.png"
+  357 3 8 3 3
+  358 15 15 2 2
+  352 "artwork/menustyles/submenu_selected.png"
+  357 3 8 3 3
+  358 15 15 2 2
+1000
+12 999
+  100 MENU_SEL
+  5 "artwork/common/selected.png"
+  371 3
+  358 5 5 2 2
+1000
+12 999
+  100 PAGER_SEL
+  5 "artwork/pager/selected.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12 999
+  100 PAGER_BACKGROUND
+  5 "artwork/tooltips/ttip.png"
+  357 2 3 2 3
+  358 3 4 4 4
+1000
+12 999
+  100 PAGER_WIN
+  5 "artwork/pager/window.png"
+  357 1 1 1 1
+1000
+12 999
+  100 TT_MAIN
+  5 "artwork/tooltips/ttip.png"
+  357 2 3 2 3
+  358 3 4 4 4
+1000
+12 999
+  100 TT_BLANK
+  5 "artwork/common/blank.png"
+1000
+12 999
+  100 TT_MINI
+  5 "artwork/tooltips/ttip.png"
+  357 2 3 2 3
+  358 3 4 4 4
+1000

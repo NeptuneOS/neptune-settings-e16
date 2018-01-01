@@ -1,0 +1,8 @@
+1001 1
+1001 0
+9 999
+  "SOUND_STARTUP"          "sound/samples/service.wav"
+  "SOUND_WINDOW_CLOSE"     "sound/samples/whoosh.wav"
+  "SOUND_EXIT"             "sound/samples/missile.wav"
+  "SOUND_WINDOW_SLIDE"     "sound/samples/conlink.wav"
+1000

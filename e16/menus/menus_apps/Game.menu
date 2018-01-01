@@ -1,0 +1,3 @@
+"Game"
+"Hedgewars" "/usr/share/icons/hicolor/32x32/apps/hedgewars.png" exec "hedgewars"
+"KPatience" "/usr/share/icons/hicolor/48x48/apps/kpat.png" exec "kpat"

@@ -1,0 +1,963 @@
+1001 1
+12 999
+  100 TITLE_BAR
+  5  "artwork/title.png"
+  357 4 2 2 4
+  353 "artwork/title.png"
+  357 4 2 2 4
+  352 "artwork/title.png"
+  357 4 2 2 4
+  354  "artwork/title_active.png"
+  357 4 2 2 4
+  356 "artwork/title_active.png"
+  357 4 2 2 4
+  355 "artwork/title_active.png"
+  357 4 2 2 4
+  359  "artwork/title.png"
+  357 4 2 2 4
+  361 "artwork/title.png"
+  357 4 2 2 4
+  360 "artwork/title.png"
+  357 4 2 2 4
+  362  "artwork/title_active.png"
+  357 4 2 2 4
+  364 "artwork/title_active.png"
+  357 4 2 2 4
+  363 "artwork/title_active.png"
+  357 4 2 2 4
+  358 37 36 4 0
+1000
+12 999
+  100 TITLE_BAR_NO_RESIZE
+  5  "artwork/title.png"
+  357 4 2 2 4
+  353 "artwork/title.png"
+  357 4 2 2 4
+  352 "artwork/title.png"
+  357 4 2 2 4
+  354  "artwork/title_active.png"
+  357 4 2 2 4
+  356 "artwork/title_active.png"
+  357 4 2 2 4
+  355 "artwork/title_active.png"
+  357 4 2 2 4
+  359  "artwork/title.png"
+  357 4 2 2 4
+  361 "artwork/title.png"
+  357 4 2 2 4
+  360 "artwork/title.png"
+  357 4 2 2 4
+  362  "artwork/title_active.png"
+  357 4 2 2 4
+  364 "artwork/title_active.png"
+  357 4 2 2 4
+  363 "artwork/title_active.png"
+  357 4 2 2 4
+  358 37 18 4 0
+1000
+12 999
+  100 TITLE_BAR_NO_BUTTONS
+  5  "artwork/title.png"
+  357 4 2 2 4
+  353 "artwork/title.png"
+  357 4 2 2 4
+  352 "artwork/title.png"
+  357 4 2 2 4
+  354  "artwork/title_active.png"
+  357 4 2 2 4
+  356 "artwork/title_active.png"
+  357 4 2 2 4
+  355 "artwork/title_active.png"
+  357 4 2 2 4
+  359  "artwork/title.png"
+  357 4 2 2 4
+  361 "artwork/title.png"
+  357 4 2 2 4
+  360 "artwork/title.png"
+  357 4 2 2 4
+  362  "artwork/title_active.png"
+  357 4 2 2 4
+  364 "artwork/title_active.png"
+  357 4 2 2 4
+  363 "artwork/title_active.png"
+  357 4 2 2 4
+  358 19 18 4 0
+1000
+12 999
+  100 LEFT
+  5  "artwork/left.png"
+  357 0 0 0 0
+  353  "artwork/left.png"
+  357 0 0 0 0
+  352  "artwork/left.png"
+  357 0 0 0 0
+  354  "artwork/left_active.png"
+  357 0 0 0 0
+  356  "artwork/left_active.png"
+  357 0 0 0 0
+  355  "artwork/left_active.png"
+  357 0 0 0 0
+  359  "artwork/left.png"
+  357 0 0 0 0
+  361  "artwork/left.png"
+  357 0 0 0 0
+  360  "artwork/left.png"
+  357 0 0 0 0
+  362  "artwork/left_active.png"
+  357 0 0 0 0
+  364  "artwork/left_active.png"
+  357 0 0 0 0
+  363  "artwork/left_active.png"
+  357 0 0 0 0
+1000
+12 999
+  100 RIGHT
+  5  "artwork/right.png"
+  357 0 0 0 0
+  353  "artwork/right.png"
+  357 0 0 0 0
+  352  "artwork/right.png"
+  357 0 0 0 0
+  354  "artwork/right_active.png"
+  357 0 0 0 0
+  356  "artwork/right_active.png"
+  357 0 0 0 0
+  355  "artwork/right_active.png"
+  357 0 0 0 0
+  359  "artwork/right.png"
+  357 0 0 0 0
+  361  "artwork/right.png"
+  357 0 0 0 0
+  360  "artwork/right.png"
+  357 0 0 0 0
+  362  "artwork/right_active.png"
+  357 0 0 0 0
+  364  "artwork/right_active.png"
+  357 0 0 0 0
+  363  "artwork/right_active.png"
+  357 0 0 0 0
+1000
+12 999
+  100 BOTTOM
+  5  "artwork/bottom.png"
+  357 5 5 0 0
+  353  "artwork/bottom.png"
+  357 5 5 0 0
+  352  "artwork/bottom.png"
+  357 5 5 0 0
+  354  "artwork/bottom_active.png"
+  357 5 5 0 0
+  356  "artwork/bottom_active.png"
+  357 5 5 0 0
+  355  "artwork/bottom_active.png"
+  357 5 5 0 0
+  359  "artwork/bottom.png"
+  357 5 5 0 0
+  361  "artwork/bottom.png"
+  357 5 5 0 0
+  360  "artwork/bottom.png"
+  357 5 5 0 0
+  362  "artwork/bottom_active.png"
+  357 5 5 0 0
+  364  "artwork/bottom_active.png"
+  357 5 5 0 0
+  363  "artwork/bottom_active.png"
+  357 5 5 0 0
+1000
+12 999
+  100 BOTTOM_RIGHT
+  5 "artwork/bottom_right.png"
+  357 1 5 1 5
+  353  "artwork/bottom_right.png"
+  357 1 5 1 5
+  352  "artwork/bottom_right.png"
+  357 1 5 1 5
+  354  "artwork/bottom_right_active.png"
+  357 1 5 1 5
+  356  "artwork/bottom_right_active.png"
+  357 1 5 1 5
+  355  "artwork/bottom_right_active.png"
+  357 1 5 1 5
+  359  "artwork/bottom_right.png"
+  357 1 5 1 5
+  361  "artwork/bottom_right.png"
+  357 1 5 1 5
+  360  "artwork/bottom_right.png"
+  357 1 5 1 5
+  362  "artwork/bottom_right_active.png"
+  357 1 5 1 5
+  364  "artwork/bottom_right_active.png"
+  357 1 5 1 5
+  363  "artwork/bottom_right_active.png"
+  357 1 5 1 5
+1000
+12 999
+  100 BOTTOM_RIGHT_PAD
+  5 "artwork/bottom_right_pad.png"
+  357 2 2 2 2
+  353 "artwork/bottom_right_pad.png"
+  357 2 2 2 2
+  352 "artwork/bottom_right_pad.png"
+  357 2 2 2 2
+  354 "artwork/bottom_right_pad_active.png"
+  357 2 2 2 2
+  356 "artwork/bottom_right_pad_active.png"
+  357 2 2 2 2
+  355 "artwork/bottom_right_pad_active.png"
+  357 2 2 2 2
+  359 "artwork/bottom_right_pad.png"
+  357 2 2 2 2
+  361 "artwork/bottom_right_pad.png"
+  357 2 2 2 2
+  360 "artwork/bottom_right_pad.png"
+  357 2 2 2 2
+  362 "artwork/bottom_right_pad_active.png"
+  357 2 2 2 2
+  364 "artwork/bottom_right_pad_active.png"
+  357 2 2 2 2
+  363 "artwork/bottom_right_pad_active.png"
+  357 2 2 2 2
+1000
+12 999
+  100 TOP_RIGHT
+  5 "artwork/top_right.png"
+  357 0 5 0 0
+  353 "artwork/top_right.png"
+  357 0 5 0 0
+  352 "artwork/top_right.png"
+  357 0 5 0 0
+  354 "artwork/top_right_active.png"
+  357 0 5 0 0
+  356 "artwork/top_right_active.png"
+  357 0 5 0 0
+  355 "artwork/top_right_active.png"
+  357 0 5 0 0
+  359 "artwork/top_right.png"
+  357 0 5 0 0
+  361 "artwork/top_right.png"
+  357 0 5 0 0
+  360 "artwork/top_right.png"
+  357 0 5 0 0
+  362 "artwork/top_right_active.png"
+  357 0 5 0 0
+  364 "artwork/top_right_active.png"
+  357 0 5 0 0
+  363 "artwork/top_right_active.png"
+  357 0 5 0 0
+1000
+12 999
+  100 BUTTON_CLOSE
+  5 "artwork/button_close.png"
+  357 2 2 2 2
+  353 "artwork/button_close.png"
+  357 2 2 2 2
+  352 "artwork/button_close.png"
+  357 2 2 2 2
+  354 "artwork/button_close_active.png"
+  357 2 2 2 2
+  356 "artwork/button_close_active.png"
+  357 2 2 2 2
+  355 "artwork/button_close_clicked.png"
+  357 2 2 2 2
+  359 "artwork/button_close.png"
+  357 2 2 2 2
+  361 "artwork/button_close.png"
+  357 2 2 2 2
+  360 "artwork/button_close.png"
+  357 2 2 2 2
+  362 "artwork/button_close_active.png"
+  357 2 2 2 2
+  364 "artwork/button_close_active.png"
+  357 2 2 2 2
+  363 "artwork/button_close_clicked.png"
+  357 2 2 2 2
+1000
+12 999
+  100 BUTTON_MAX
+  5 "artwork/button_maximize.png"
+  357 2 2 2 2
+  353 "artwork/button_maximize.png"
+  357 2 2 2 2
+  352 "artwork/button_maximize.png"
+  357 2 2 2 2
+  354 "artwork/button_maximize_active.png"
+  357 2 2 2 2
+  356 "artwork/button_maximize_active.png"
+  357 2 2 2 2
+  355 "artwork/button_maximize_clicked.png"
+  357 2 2 2 2
+  359 "artwork/button_maximize.png"
+  357 2 2 2 2
+  361 "artwork/button_maximize.png"
+  357 2 2 2 2
+  360 "artwork/button_maximize.png"
+  357 2 2 2 2
+  362 "artwork/button_maximize_active.png"
+  357 2 2 2 2
+  364 "artwork/button_maximize_active.png"
+  357 2 2 2 2
+  363 "artwork/button_maximize_clicked.png"
+  357 2 2 2 2
+1000
+12 999
+  100 DESKBAR
+  5 "artwork/deskbar.png"
+  357 85 4 2 2
+  353 "artwork/deskbar.png"
+  357 85 4 2 2
+  352 "artwork/deskbar_clicked.png"
+  357 85 4 2 2
+  354 "artwork/deskbar.png"
+  357 85 4 2 2
+  356 "artwork/deskbar.png"
+  357 85 4 2 2
+  355 "artwork/deskbar_clicked.png"
+  357 85 4 2 2
+  359 "artwork/deskbar.png"
+  357 85 4 2 2
+  361 "artwork/deskbar.png"
+  357 85 4 2 2
+  360 "artwork/deskbar_clicked.png"
+  357 85 4 2 2
+  362 "artwork/deskbar.png"
+  357 85 4 2 2
+  364 "artwork/deskbar.png"
+  357 85 4 2 2
+  363 "artwork/deskbar_clicked.png"
+  357 85 4 2 2
+1000
+12 999
+  100 DESKBAR_WINDOW
+  5 "artwork/deskbar_window.png"
+  357 2 2 2 2
+  353 "artwork/deskbar_window.png"
+  357 2 2 2 2
+  352 "artwork/deskbar_window.png"
+  357 2 2 2 2
+  354 "artwork/deskbar_window.png"
+  357 2 2 2 2
+  356 "artwork/deskbar_window.png"
+  357 2 2 2 2
+  355 "artwork/deskbar_window.png"
+  357 2 2 2 2
+  359 "artwork/deskbar_window.png"
+  357 2 2 2 2
+  361 "artwork/deskbar_window.png"
+  357 2 2 2 2
+  360 "artwork/deskbar_window.png"
+  357 2 2 2 2
+  362 "artwork/deskbar_window.png"
+  357 2 2 2 2
+  364 "artwork/deskbar_window.png"
+  357 2 2 2 2
+  363 "artwork/deskbar_window.png"
+  357 2 2 2 2
+1000
+12 999
+  100 DESKBAR_BOTTOM
+  5 "artwork/deskbar_bottom.png"
+  357 0 0 0 0
+1000
+12 999
+  100 COORDS
+  5 "artwork/menuitem_hilited.png"
+  357 6 6 6 6
+  352 "artwork/menuitem_clicked.png"
+  357 6 6 6 6
+  358 6 6 6 6
+1000
+12 999
+  100 DIALOG
+  5 "artwork/common/background.png"
+  357 1 1 1 1
+  371 0
+  358 11 11 12 11
+1000
+12 999
+  100 DIALOG_BUTTON
+  5 "artwork/common/button.png"
+  357 4 3 4 3
+  353 "artwork/common/button.png"
+  357 4 3 4 3
+  352 "artwork/common/button_clicked.png"
+  357 4 3 4 3
+  358 17 19 9 7
+1000
+12 999
+  100 DIALOG_WIDGET_BUTTON
+  5 "artwork/common/button.png"
+  357 4 3 4 3
+  353 "artwork/common/button.png"
+  357 4 3 4 3
+  352 "artwork/common/button_clicked.png"
+  357 4 3 4 3
+  358 17 19 9 7
+1000
+12 999
+  100 DIALOG_WIDGET_CHECK_BUTTON
+  5 "artwork/common/check_off.png"
+  353 "artwork/common/check_off.png"
+  354 "artwork/common/check_on.png"
+  356 "artwork/common/check_on.png"
+  358 4 4 4 4
+1000
+12 999
+  100 DIALOG_WIDGET_RADIO_BUTTON
+  5 "artwork/common/radio_off.png"
+  353 "artwork/common/radio_off.png"
+  354 "artwork/common/radio_on.png"
+  356 "artwork/common/radio_on.png"
+  358 4 4 4 4
+1000
+12 999
+  100 DIALOG_WIDGET_SEPARATOR
+  5 "artwork/common/separator.png"
+  357 1 1 1 1
+  352 "artwork/common/separator.png"
+  357 1 1 1 1
+  358 1 1 1 1
+1000
+12 999
+  100 DIALOG_WIDGET_TABLE
+  5 "artwork/common/background.png"
+  357 2 2 2 2
+  358 4 4 4 4
+1000
+12 999
+  100 DIALOG_WIDGET_SLIDER_BASE_HORIZONTAL
+  5 "artwork/common/slider_base.png"
+  357 2 1 1 1
+  358 2 1 2 1
+1000
+12 999
+  100 DIALOG_WIDGET_SLIDER_KNOB_HORIZONTAL
+  5 "artwork/common/slider_knob_horizontal.png"
+  357 3 3 4 4
+  352 "artwork/common/slider_knob_horizontal.png"
+  357 3 3 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 DIALOG_WIDGET_SLIDER_BASE_VERTICAL
+  5 "artwork/common/slider_base.png"
+  357 2 1 2 1
+  358 2 1 2 1
+1000
+12 999
+  100 DIALOG_WIDGET_SLIDER_KNOB_VERTICAL
+  5 "artwork/common/slider_knob_vertical.png"
+  357 3 3 4 4
+  352 "artwork/common/slider_knob_vertical.png"
+  357 3 3 4 4
+  358 4 4 4 4
+1000
+12 999
+  100 DIALOG_WIDGET_AREA
+  5 "artwork/common/background.png"
+  357 2 2 2 2
+  358 4 4 4 4
+1000
+12 999
+  100 SETTINGS_DESKTOP_AREA
+  5 "artwork/common/background.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12 999
+  100 SETTINGS_AREA_AREA
+  5 "artwork/common/background.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12 999
+  100 SETTINGS_AREADESK_AREA
+  5 "artwork/common/background.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12 999
+  100 DEFAULT_DOCK_BUTTON
+  5 "artwork/blank.png"
+  357 1 1 1 1
+  358 1 1 1 1
+1000
+12 999
+  100 DESKTOP_DRAGBUTTON_HORIZ
+  5 "artwork/dragbar_horiz_normal.png"
+  357 28 2 2 2
+1000
+12 999
+  100 DESKTOP_DRAGBUTTON_VERT
+  5 "artwork/dragbar_vert_normal.png"
+  357 2 2 28 2
+1000
+12 999
+  100 DESKTOP_LOWERBUTTON_HORIZ
+  5 "artwork/common/arrow_down_active.png"
+  357 4 4 4 4
+  352 "artwork/common/arrow_down.png"
+  357 4 4 4 4
+1000
+12 999
+  100 DESKTOP_RAISEBUTTON_HORIZ
+  5 "artwork/common/arrow_up_active.png"
+  357 4 4 4 4
+  352 "artwork/common/arrow_up.png"
+  357 4 4 4 4
+1000
+12 999
+  100 DESKTOP_LOWERBUTTON_VERT
+  5 "artwork/common/arrow_left_active.png"
+  357 4 4 4 4
+  352 "artwork/common/arrow_left.png"
+  357 4 4 4 4
+1000
+12 999
+  100 DESKTOP_RAISEBUTTON_VERT
+  5 "artwork/common/arrow_right_active.png"
+  357 4 4 4 4
+  352 "artwork/common/arrow_right.png"
+  357 4 4 4 4
+1000
+12 999
+  100 EPPLET_BACKGROUND_HORIZONTAL
+  5 "artwork/menu_back.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_BACKGROUND_VERTICAL
+  5 "artwork/menu_back.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_BUTTON
+  5 "artwork/common/button.png"
+  357 2 2 2 2
+  353 "artwork/common/button.png"
+  357 2 2 2 2
+  352 "artwork/common/button_clicked.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_TOGGLEBUTTON_OFF
+  5 "artwork/common/check_off.png"
+  357 2 2 2 2
+  353 "artwork/common/check_off.png"
+  357 2 2 2 2
+  352 "artwork/common/check_off.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_TOGGLEBUTTON_ON
+  5 "artwork/common/check_on.png"
+  357 2 2 2 2
+  353 "artwork/common/check_on.png"
+  357 2 2 2 2
+  352 "artwork/common/check_on.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_DRAWINGAREA
+  5 "artwork/epplets/da.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_HSLIDER_BASE
+  5 "artwork/common/slider_base.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_HSLIDER_KNOB
+  5 "artwork/common/slider_knob_horizontal.png"
+  357 2 2 2 2
+  352 "artwork/common/slider_knob_horizontal.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_VSLIDER_BASE
+  5 "artwork/common/slider_base.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_VSLIDER_KNOB
+  5 "artwork/common/slider_knob_vertical.png"
+  357 2 2 2 2
+  352 "artwork/common/slider_knob_vertical.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_POPUP_BASE
+  5 "artwork/epplets/bg_v.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_POPUP_ENTRY
+  5 "artwork/epplets/b1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/b2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/b3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_HBAR_BASE
+  5 "artwork/epplets/da.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_HBAR_BAR
+  5 "artwork/epplets/pb_h.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_VBAR_BASE
+  5 "artwork/epplets/da.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_VBAR_BAR
+  5 "artwork/epplets/pb_v.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_ARROW_UP
+  5 "artwork/common/arrow_up.png"
+  357 2 2 2 2
+  353 "artwork/common/arrow_up.png"
+  357 2 2 2 2
+  352 "artwork/common/arrow_up_active.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_ARROW_DOWN
+  5 "artwork/common/arrow_down.png"
+  357 2 2 2 2
+  353 "artwork/common/arrow_down.png"
+  357 2 2 2 2
+  352 "artwork/common/arrow_down_active.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_ARROW_LEFT
+  5 "artwork/common/arrow_left.png"
+  357 2 2 2 2
+  353 "artwork/common/arrow_left.png"
+  357 2 2 2 2
+  352 "artwork/common/arrow_left_active.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_ARROW_RIGHT
+  5 "artwork/common/arrow_right.png"
+  357 2 2 2 2
+  353 "artwork/common/arrow_right.png"
+  357 2 2 2 2
+  352 "artwork/common/arrow_right.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_PLAY
+  5 "artwork/epplets/play1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/play2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/play3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_STOP
+  5 "artwork/epplets/stop1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/stop2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/stop3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_PAUSE
+  5 "artwork/epplets/pause1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/pause2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/pause3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_PREVIOUS
+  5 "artwork/epplets/prev1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/prev2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/prev3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_NEXT
+  5 "artwork/epplets/next1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/next2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/next3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_EJECT
+  5 "artwork/epplets/eject1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/eject2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/eject3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_CLOSE
+  5 "artwork/epplets/close1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/close2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/close3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_FAST_FORWARD
+  5 "artwork/epplets/ff1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/ff2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/ff3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_REWIND
+  5 "artwork/epplets/rw1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/rw2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/rw3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_REPEAT
+  5 "artwork/epplets/repeat1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/repeat2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/repeat3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_SKIP
+  5 "artwork/epplets/skip1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/skip2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/skip3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_HELP
+  5 "artwork/epplets/help1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/help2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/help3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 EPPLET_CONFIGURE
+  5 "artwork/epplets/config1.png"
+  357 2 2 2 2
+  353 "artwork/epplets/config2.png"
+  357 2 2 2 2
+  352 "artwork/epplets/config3.png"
+  357 2 2 2 2
+1000
+12 999
+  100 WARPFOCUS
+  5 "artwork/menuitem_hilited.png"
+  357 6 6 6 6
+  352 "artwork/menuitem_clicked.png"
+  357 6 6 6 6
+  358 6 6 6 6
+1000
+12 999
+  100 DEFAULT_ICON_BUTTON
+  5 "artwork/icon_1.png"
+  357 2 2 2 2
+  353 "artwork/icon_3.png"
+  357 2 2 2 2
+  352 "artwork/icon_2.png"
+  357 2 2 2 2
+1000
+12 999
+  100 ICONBOX_HORIZONTAL
+  5 "artwork/menu_back.png"
+  357 3 3 3 3
+  358 2 2 2 2
+1000
+12 999
+  100 ICONBOX_VERTICAL
+  5 "artwork/menu_back.png"
+  357 3 3 3 3
+  358 1 1 1 1
+1000
+12 999
+  100 ICONBOX_COVER_VERTICAL
+  5 "artwork/blank.png"
+1000
+12 999
+  100 ICONBOX_COVER_HORIZONTAL
+  5 "artwork/blank.png"
+1000
+12 999
+  100 ICONBOX_ARROW_LEFT
+  5 "artwork/common/arrow_left.png"
+  357 4 4 4 4
+  352 "artwork/common/arrow_left_active.png"
+  357 4 4 4 4
+1000
+12 999
+  100 ICONBOX_ARROW_RIGHT
+  5 "artwork/common/arrow_right.png"
+  357 4 4 4 4
+  352 "artwork/common/arrow_right_active.png"
+  357 4 4 4 4
+1000
+12 999
+  100 ICONBOX_ARROW_UP
+  5 "artwork/common/arrow_up.png"
+  357 4 4 4 4
+  352 "artwork/common/arrow_up_active.png"
+  357 4 4 4 4
+1000
+12 999
+  100 ICONBOX_ARROW_DOWN
+  5 "artwork/common/arrow_down.png"
+  357 4 4 4 4
+  352 "artwork/common/arrow_down_active.png"
+  357 4 4 4 4
+1000
+12 999
+  100 ICONBOX_SCROLLBAR_BASE_HORIZONTAL
+  5 "artwork/common/slider_base.png"
+  357 1 1 1 1
+1000
+12 999
+  100 ICONBOX_SCROLLBAR_KNOB_HORIZONTAL
+  5 "artwork/common/background.png"
+  357 1 1 1 1
+1000
+12 999
+  100 ICONBOX_SCROLLKNOB_HORIZONTAL
+  5 "artwork/common/scrollbar_knob_horizontal.png"
+  357 2 2 2 2
+1000
+12 999
+  100 ICONBOX_SCROLLBAR_BASE_VERTICAL
+  5 "artwork/common/slider_base.png"
+  357 1 1 1 1
+1000
+12 999
+  100 ICONBOX_SCROLLBAR_KNOB_VERTICAL
+  5 "artwork/common/background.png"
+  357 1 1 1 1
+1000
+12 999
+  100 ICONBOX_SCROLLKNOB_VERTICAL
+  5 "artwork/common/scrollbar_knob_vertical.png"
+  357 2 2 2 2
+1000
+12 999
+  100 DEFAULT_ICON_BUTTON
+  5 "artwork/icon_1.png"
+  357 4 4 4 4
+  353 "artwork/icon_3.png"
+  357 4 4 4 4
+  352 "artwork/icon_3.png"
+  357 4 4 4 4
+1000
+12 999
+  100 MENU_BG
+  5 "artwork/menu_back.png"
+  371 0
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12 999
+  100 MENU_SEL
+  5 "artwork/menu_item_selected.png"
+  357 0 0 0 0
+  353 "artwork/menu_item_selected.png"
+  357 0 0 0 0
+  352 "artwork/menu_item_selected.png"
+  357 0 0 0 0
+  358 16 7 5 1
+1000
+12 999
+  100 MENU_SUB
+  5 "artwork/menusub_normal.png"
+  357 3 9 3 3
+  353 "artwork/menusub_hilited.png"
+  357 3 9 3 3
+  352 "artwork/menusub_clicked.png"
+  357 3 9 3 3
+  358 4 15 5 3
+1000
+12 999
+  100 MENU_SUB
+  5 "artwork/sub_menu.png"
+  357 0 15 0 10
+  353 "artwork/sub_menu_selected.png"
+  357 0 15 0 10
+  352 "artwork/sub_menu_selected.png"
+  357 0 15 0 10
+  358 25 16 5 1
+1000
+12 999
+  100 PAGER_SEL
+  5 "artwork/pager/pager_sel.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12 999
+  100 PAGER_BACKGROUND
+  5 "artwork/button_close.png"
+  357 4 4 4 4
+1000
+12 999
+  100 PAGER_WIN
+  5 "artwork/pager/pager_win.png"
+  357 2 2 2 2
+1000
+12 999
+  100 TT_MAIN
+  5 "artwork/blank.png"
+  357 5 5 5 5
+  358 5 5 5 5
+1000
+12 999
+  100 TT_CLOUD1
+  5 "artwork/blank.png"
+1000
+12 999
+  100 TT_CLOUD2
+  5 "artwork/blank.png"
+1000
+12 999
+  100 TT_CLOUD3
+  5 "artwork/blank.png"
+1000
+12 999
+  100 TT_CLOUD4
+  5 "artwork/blank.png"
+1000
+12 999
+  100 TT_BLANK
+  5 "artwork/blank.png"
+1000
+12 999
+  100 TT_MINI
+  5 "artwork/menu_back.png"
+  357 3 3 3 3
+  358 4 4 4 4
+1000

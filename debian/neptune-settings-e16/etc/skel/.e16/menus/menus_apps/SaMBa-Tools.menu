@@ -1,0 +1,2 @@
+"SaMBa-Tools"
+"Samba Shares Mounter" "/usr/share/pixmaps/application-x-smb-server.png" exec "/usr/share/applications/SaMBa_Tools-mount-umount-share.sh"

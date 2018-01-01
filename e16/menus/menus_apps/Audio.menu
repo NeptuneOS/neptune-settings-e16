@@ -1,0 +1,2 @@
+"Audio"
+"QjackCtl" "/usr/share/icons/hicolor/32x32/apps/qjackctl.png" exec "/usr/bin/qjackctl"

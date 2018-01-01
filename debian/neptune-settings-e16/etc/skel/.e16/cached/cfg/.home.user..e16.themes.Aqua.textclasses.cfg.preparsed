@@ -1,0 +1,214 @@
+1001 1
+1 999
+  100 COORDS
+  5 "*font-coords"
+  204 0
+  205 0 0 0
+  206 255 255 255
+  201 0
+1000
+1 999
+  100 DIALOG
+  5 "*font-dialog"
+  205 0 0 0
+  206 192 192 192
+  201 0
+1000
+1 999
+  100 DIALOG_BUTTON
+  5 "*font-dialog-hilite"
+  204 0
+  205 0 0 0
+  206 255 255 255
+  201 512
+1000
+1 999
+  100 DIALOG_WIDGET_BUTTON
+  5 "*font-dialog-hilite"
+  205 0 0 0
+  206 255 255 255
+  201 512
+1000
+1 999
+  100 DIALOG_WIDGET_CHECK_BUTTON
+  5 "*font-dialog"
+  205 0 0 0
+  206 192 192 192
+  201 0
+1000
+1 999
+  100 DIALOG_WIDGET_RADIO_BUTTON
+  5 "*font-dialog"
+  205 0 0 0
+  206 192 192 192
+  201 0
+1000
+1 999
+  100 DIALOG_WIDGET_TEXT
+  5 "*font-dialog"
+  205 0 0 0
+  206 192 192 192
+  201 0
+1000
+1 999
+  100 EPPLET_BUTTON
+  5 "*font-epplet"
+  205 0 0 0
+  206 255 255 255
+1000
+1 999
+  100 EPPLET_LABEL
+  5 "*font-epplet"
+  205 0 0 0
+  206 255 255 255
+1000
+1 999
+  100 EPPLET_POPUP
+  5 "*font-epplet"
+  205 0 0 0
+  206 255 255 255
+1000
+1 999
+  100 EPPLET_TEXT_LARGE
+  5 "*font-epplet-large"
+  205 0 0 0
+  206 255 255 255
+1000
+1 999
+  100 EPPLET_TEXT_MEDIUM
+  5 "*font-epplet-medium"
+  205 0 0 0
+  206 255 255 255
+1000
+1 999
+  100 EPPLET_TEXT_TINY
+  5 "*font-epplet-small"
+  205 0 0 0
+  206 255 255 255
+1000
+1 999
+  100 EPPLET_TOGGLEBUTTON_OFF
+  5 "*font-epplet"
+  205 0 0 0
+  206 255 255 255
+1000
+1 999
+  100 EPPLET_TOGGLEBUTTON_ON
+  5 "*font-epplet"
+  205 0 0 0
+  206 255 255 255
+1000
+1 999
+  100 LEFTSIDE_TITLE_TEXT
+  5 "*font-border"
+  204 1
+  205 192 192 192
+  206 0 0 0
+  201 512
+  200 2
+  354 "*font-border"
+  204 1
+  205 255 255 255
+  206 0 0 0
+  201 512
+  200 2
+  362 "*font-border"
+  204 1
+  205 255 255 255
+  206 0 0 0
+  201 512
+  200 2
+1000
+1 999
+  100 MENU
+  5 "*font-menu"
+  204 0
+  205 0 0 0
+  206 255 255 255
+  201 0
+  353 "*font-menu"
+  204 0
+  205 255 255 255
+  206 0 0 0
+  201 0
+1000
+1 999
+  100 MENU_TEXT
+  5 "*font-menu"
+  205 0 0 0
+  206 192 192 192
+  201 0
+1000
+1 999
+  100 TEXT1
+  5 "*font-default"
+  204 0
+  205 73 80 96
+  206 174 174 174
+  354 "*font-default"
+  204 1
+  205 0 0 0
+  206 174 174 174
+  201 512
+  362 "*font-default"
+  204 0
+  205 70 48 80
+  206 255 255 255
+  201 512
+1000
+1 999
+  100 TEXT2
+  5 "*font-default"
+  204 0
+  205 0 0 0
+  206 0 0 0
+  201 1024
+  354 "*font-default"
+  205 255 255 255
+  206 0 0 0
+  201 1024
+1000
+1 999
+  100 TITLE_TEXT
+  5 "*font-border"
+  204 1
+  205 192 192 192
+  206 0 0 0
+  201 512
+  354 "*font-border"
+  204 1
+  205 255 255 255
+  206 0 0 0
+  201 512
+  362 "*font-border"
+  204 1
+  205 255 255 255
+  206 0 0 0
+  201 512
+1000
+1 999
+  100 TT_MINI_TEXT
+  5 "*font-tooltip"
+  205 0 0 0
+  206 255 255 255
+  201 0
+1000
+1 999
+  100 TT_TEXT
+  5 "*font-tooltip"
+  204 0
+  205 0 0 0
+  206 0 0 0
+  201 1024
+1000
+1 999
+  100 WARPFOCUS
+  5 "*font-focus"
+  205 0 0 0 0
+  206 255 255 255
+  201 0
+  352 "*font-focus"
+  205 0 0 0
+  206 255 255 255
+  201 0
+1000

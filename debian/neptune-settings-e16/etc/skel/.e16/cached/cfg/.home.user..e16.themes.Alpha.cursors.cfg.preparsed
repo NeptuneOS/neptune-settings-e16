@@ -1,0 +1,55 @@
+1001 1
+800  999
+  100 DEFAULT
+  802 206 151 45
+  801 0 0 0
+  803 "artwork/cursors/def.xbm"
+1000
+800  999
+  100 CUR_MOVE
+  802 206 151 45
+  801 0 0 0
+  803 "artwork/cursors/move.xbm"
+1000
+800  999
+  100 CUR_KILL
+  802 170 32 32
+  801 0 0 0
+  803 "artwork/cursors/kill.xbm"
+1000
+800  999
+  100 CUR_MAX
+  802 206 151 45
+  801 0 0 0
+  803 "artwork/cursors/max.xbm"
+1000
+800  999
+  100 CUR_MIN
+  802 206 151 45
+  801 0 0 0
+  803 "artwork/cursors/min.xbm"
+1000
+800  999
+  100 RESIZE_H
+  802 206 151 45
+  801 0 0 0
+  803 "artwork/cursors/resize_h.xbm"
+1000
+800  999
+  100 RESIZE_V
+  802 206 151 45
+  801 0 0 0
+  803 "artwork/cursors/resize_v.xbm"
+1000
+800  999
+  100 RESIZE_BR
+  802 206 151 45
+  801 0 0 0
+  803 "artwork/cursors/resize_br.xbm"
+1000
+800  999
+  100 RESIZE_TR
+  802 206 151 45
+  801 0 0 0
+  803 "artwork/cursors/resize_tr.xbm"
+1000

@@ -1,0 +1,58 @@
+1001 1
+5 999;  100 "DEFAULT_WALEDAWG_LOGO"
+  560 "134 155 176"
+  561 "artwork/backgrounds/bg_logo.png" 0 0 0 0 1024 1024
+  562 "artwork/backgrounds/waledawg_logo.png" 1 512 512 0 0
+  564 "0"
+1000
+5 999;  100 "DEFAULT_WALEDAWG_LOGO"
+  560 "134 155 176"
+  561 "artwork/backgrounds/bg_logo.png" 0 0 0 0 1024 1024
+  562 "artwork/backgrounds/waledawg_logo.png" 1 512 512 0 0
+  564 "1"
+1000
+5 999;  100 "DEFAULT_WALEDAWG_LOGO"
+560 "134 155 176"
+564 "2"
+564 "3"
+564 "4"
+564 "5"
+564 "6"
+564 "7"
+564 "8"
+564 "9"
+564 "10"
+564 "11"
+564 "12"
+564 "13"
+564 "14"
+564 "15"
+564 "16"
+564 "17"
+564 "18"
+564 "19"
+564 "20"
+564 "21"
+564 "22"
+564 "23"
+564 "24"
+564 "25"
+564 "26"
+564 "27"
+564 "28"
+564 "29"
+564 "30"
+564 "31"
+1000
+5 999;  100 "TILED_RGBLU_6D1D31"
+  560 "109 29 49"
+  561 "artwork/backgrounds/6d1d31.png" 0 0 0 0 1024 1024
+1000
+5 999;  100 "TILED_RGBLU_803749"
+  560 "128 55 73"
+  561 "artwork/backgrounds/803749.png" 0 0 0 0 1024 1024
+1000
+5 999;  100 "TILED_RGBLU_85253D"
+  560 "133 37 61"
+  561 "artwork/backgrounds/85253d.png" 0 0 0 0 1024 1024
+1000

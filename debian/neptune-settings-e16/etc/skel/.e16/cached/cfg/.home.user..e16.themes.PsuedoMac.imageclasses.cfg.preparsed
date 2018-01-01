@@ -1,0 +1,374 @@
+1001 1
+12  999
+  100 W1L
+  5 "artwork/w1l.png"
+1000
+12  999
+  100 W1LS
+  5 "artwork/w1ls.png"
+1000
+12  999
+  100 W1
+  5 "artwork/w1.png"
+1000
+12  999
+  100 W1A
+  5 "artwork/w1a.png"
+1000
+12  999
+  100 W1S
+  5 "artwork/w1s.png"
+1000
+12  999
+  100 W2
+  5 "artwork/w2.png"
+  357 1 1 2 2
+  354 "artwork/w2b.png"
+  357 1 1 2 2
+  358 5 5 3 3
+1000
+12  999
+  100 W3
+  5 "artwork/w3.png"
+  357 1 6 2 2
+1000
+12  999
+  100 W3S
+  5 "artwork/w3s.png"
+  357 1 6 2 2
+1000
+12  999
+  100 W4L
+  5 "artwork/w4l.png"
+1000
+12  999
+  100 W4R
+  5 "artwork/w4r.png"
+1000
+12  999
+  100 W4
+  5 "artwork/w4.png"
+1000
+12  999
+  100 W5
+  5 "artwork/w5.png"
+1000
+12  999
+  100 W6
+  5 "artwork/w6.png"
+1000
+12  999
+  100 W7
+  5 "artwork/w7.png"
+1000
+12  999
+  100 W8
+  5 "artwork/w8.png"
+  357 1 1 0 0
+  354 "artwork/w8b.png"
+  357 1 1 0 0
+  358 0 0 0 0
+1000
+12  999
+  100 B1
+  5 "artwork/wb1.png"
+  352 "artwork/wb2.png"
+  354 "artwork/wb1.png"
+  355 "artwork/wb2.png"
+1000
+12  999
+  100 B2
+  5 "artwork/wb3.png"
+  352 "artwork/wb4.png"
+  354 "artwork/wb3.png"
+  355 "artwork/wb4.png"
+1000
+12  999
+  100 B3
+  5 "artwork/wb5.png"
+  352 "artwork/wb6.png"
+  354 "artwork/wb5.png"
+  355 "artwork/wb6.png"
+1000
+12  999
+  100 COORDS
+  5 "artwork/mb1.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12  999
+  100 DIALOG
+  5 "artwork/tile.png"
+  357 6 6 6 6
+  358 4 4 4 4
+1000
+12  999
+  100 DIALOG_BUTTON
+  5 "artwork/tile.png"
+  357 2 2 2 2
+  352 "artwork/tile-press.png"
+  357 2 2 2 2
+  358 4 4 4 4
+1000
+12  999
+  100 DIALOG_WIDGET_BUTTON
+  5 "artwork/tile.png"
+  357 2 2 2 2
+  352 "artwork/tile-press.png"
+  357 2 2 2 2
+  358 4 4 4 4
+1000
+12  999
+  100 DIALOG_WIDGET_CHECK_BUTTON
+  5 "artwork/dialogs/select_empty_n.png"
+  357 0 0 0 0
+  353 "artwork/dialogs/select_empty_h.png"
+  357 0 0 0 0
+  354 "artwork/dialogs/select_check_n.png"
+  357 0 0 0 0
+  356 "artwork/dialogs/select_check_h.png"
+  357 0 0 0 0
+  358 4 4 4 4
+1000
+12  999
+  100 DIALOG_WIDGET_RADIO_BUTTON
+  5 "artwork/dialogs/select_empty_n.png"
+  357 0 0 0 0
+  353 "artwork/dialogs/select_empty_h.png"
+  357 0 0 0 0
+  354 "artwork/dialogs/select_radio_n.png"
+  357 0 0 0 0
+  356 "artwork/dialogs/select_radio_h.png"
+  357 0 0 0 0
+  358 4 4 4 4
+1000
+12  999
+  100 DIALOG_WIDGET_SEPARATOR
+  5 "artwork/dialogs/box_in.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12  999
+  100 DIALOG_WIDGET_SLIDER_BASE_HORIZONTAL
+  5 "artwork/dialogs/slider_in.png"
+  357 3 3 3 3
+1000
+12  999
+  100 DIALOG_WIDGET_SLIDER_BASE_VERTICAL
+  5 "artwork/dialogs/slider_in.png"
+  357 3 3 3 3
+1000
+12  999
+  100 DIALOG_WIDGET_SLIDER_KNOB_HORIZONTAL
+  5 "artwork/dialogs/box_out.png"
+  352 "artwork/dialogs/box_in.png"
+1000
+12  999
+  100 DIALOG_WIDGET_SLIDER_KNOB_VERTICAL
+  5 "artwork/dialogs/box_out.png"
+  352 "artwork/dialogs/box_in.png"
+1000
+12  999
+  100 DIALOG_WIDGET_AREA
+  5 "artwork/tile.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12  999
+  100 SETTINGS_DESKTOP_AREA
+  5 "artwork/tile.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12  999
+  100 SETTINGS_AREA_AREA
+  5 "artwork/tile.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12  999
+  100 SETTINGS_AREADESK_AREA
+  5 "artwork/tile.png"
+  357 4 4 4 4
+  358 4 4 4 4
+1000
+12  999
+  100 DEFAULT_DOCK_BUTTON
+  5 "artwork/mb1.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12  999
+  100 DESKTOP_DRAGBUTTON_HORIZ
+  5 "artwork/wb5.png"
+  357 6 6 6 6
+  352 "artwork/wb6.png"
+  357 6 6 6 6
+1000
+12  999
+  100 DESKTOP_RAISEBUTTON_HORIZ
+  5 "artwork/wb5.png"
+  352 "artwork/wb6.png"
+1000
+12  999
+  100 DESKTOP_LOWERBUTTON_HORIZ
+  5 "artwork/wb5.png"
+  352 "artwork/wb6.png"
+1000
+12  999
+  100 DESKTOP_DESKRAY_HORIZ
+  5 "artwork/blank.png"
+1000
+12  999
+  100 DESKTOP_DRAGBUTTON_VERT
+  5 "artwork/wb5.png"
+  357 6 6 6 6
+  352 "artwork/wb6.png"
+  357 6 6 6 6
+1000
+12  999
+  100 DESKTOP_RAISEBUTTON_VERT
+  5 "artwork/wb5.png"
+  352 "artwork/wb6.png"
+1000
+12  999
+  100 DESKTOP_LOWERBUTTON_VERT
+  5 "artwork/wb5.png"
+  352 "artwork/wb6.png"
+1000
+12  999
+  100 DESKTOP_DESKRAY_VERT
+  5 "artwork/blank.png"
+1000
+12  999
+  100 WARPFOCUS
+  5 "artwork/mb1.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12  999
+  100 DEFAULT_ICON_BUTTON
+  5 "artwork/mb1.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12  999
+  100 ICONBOX_HORIZONTAL
+  5 "artwork/tile-press.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12  999
+  100 ICONBOX_VERTICAL
+  5 "artwork/tile-press.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12 999
+  100 ICONBOX_ARROW_LEFT
+  5 "artwork/wb5.png"
+  352 "artwork/wb6.png"
+1000
+12 999
+  100 ICONBOX_ARROW_RIGHT
+  5 "artwork/wb5.png"
+  352 "artwork/wb6.png"
+1000
+12 999
+  100 ICONBOX_ARROW_UP
+  5 "artwork/wb5.png"
+  352 "artwork/wb6.png"
+1000
+12 999
+  100 ICONBOX_ARROW_DOWN
+  5 "artwork/wb5.png"
+  352 "artwork/wb6.png"
+1000
+12 999 
+  100 ICONBOX_SCROLLBAR_BASE_HORIZONTAL 
+  5 "artwork/dialogs/slider_out.png"
+  357 2 2 2 2 
+1000
+12 999 
+  100 ICONBOX_SCROLLBAR_BASE_VERTICAL 
+  5 "artwork/dialogs/slider_out.png"
+  357 2 2 2 2 
+1000
+12 999 
+  100 ICONBOX_SCROLLBAR_KNOB_HORIZONTAL 
+  5 "artwork/dialogs/slider_in.png"
+  357 2 2 2 2 
+1000
+12 999 
+  100 ICONBOX_SCROLLBAR_KNOB_VERTICAL 
+  5 "artwork/dialogs/slider_in.png"
+  357 2 2 2 2 
+1000
+12 999
+  100 ICONBOX_SCROLLKNOB_HORIZONTAL
+  5 "artwork/dialogs/box_out.png"
+  357 2 2 2 2 
+  352 "artwork/dialogs/box_in.png"
+  357 2 2 2 2 
+1000
+12 999
+  100 ICONBOX_SCROLLKNOB_VERTICAL
+  5 "artwork/dialogs/box_out.png"
+  357 2 2 2 2 
+  352 "artwork/dialogs/box_in.png"
+  357 2 2 2 2 
+1000
+12  999
+  100 MENU_BG
+  5 "artwork/mb1.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12  999
+  100 MENU_SEL
+  5 "artwork/mb1.png"
+  357 2 2 2 2
+  353 "artwork/mb1.png"
+  357 2 2 2 2
+  352 "artwork/mb4.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12  999
+  100 MENU_SUB
+  5 "artwork/mb2.png"
+  357 2 12 2 2
+  353 "artwork/mb3.png"
+  357 2 12 2 2
+  352 "artwork/mb3.png"
+  357 2 12 2 2
+  358 2 14 2 2
+1000
+12  999
+  100 PAGER_BACKGROUND
+  5 "artwork/tile-press.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12  999
+  100 PAGER_SEL
+  5 "artwork/p_sel.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12  999
+  100 PAGER_WIN
+  5 "artwork/tile.png"
+  357 2 2 2 2
+  358 2 2 2 2
+1000
+12  999
+  100 TT_MAIN
+  5 "artwork/yelbox.png"
+  357 1 1 1 1
+  358 2 2 2 2
+1000
+12  999
+  100 TT_BLANK
+  5 "artwork/blank.png"
+1000

@@ -1,0 +1,3 @@
+"Core"
+"Find Files/Folders" "/usr/share/icons/gnome/48x48/actions/kfind.png" exec "kfind"
+"Help" "/usr/share/icons/gnome/48x48/apps/help-browser.png" exec "khelpcenter"

@@ -1,0 +1,36 @@
+1001 1
+5 999;  100 STARTUP_BACKGROUND
+  560 "0 0 0"
+  562 "artwork/init/UFP_Overlay.gif" 1 512 512 0 0
+1000
+12 999
+  100 STARTUP_BAR
+  5 "artwork/transparent.png"
+  357 0 0 0 0
+1000
+12 999
+  100 PROGRESS_BAR
+  5 "artwork/progress_textbg.png"
+  357 8 8 0 0
+  352 "artwork/blackdot.png"
+  357 0 0 0 0
+  354 "artwork/progress_meter.png"
+  357 15 19 0 0
+  358 8 8 0 2
+1000
+1 999
+  100 PROGRESS_TEXT
+  5 "*font-init"
+  204 0
+  205 0 0 0
+  206 0 0 0
+  201 0
+1000
+1 999
+  100 PROGRESS_TEXT_NUMBER
+  5 "*font-init"
+  204 0
+  205 255 156 0
+  206 0 0 0
+  201 512
+1000

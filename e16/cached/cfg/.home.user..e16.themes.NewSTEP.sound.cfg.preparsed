@@ -1,0 +1,11 @@
+1001 1
+9 999
+  "SOUND_BUTTON_CLICK" "audio/ButtonClick.wav"
+  "SOUND_BUTTON_RAISE" "audio/ButtonRaise.wav"
+  "SOUND_DESKTOP_SHUT" "audio/DesktopShut.wav"
+  "SOUND_WINDOW_CLOSE" "audio/WindowClose.wav"
+  "SOUND_WINDOW_STICK" "audio/WindowStick.wav"
+  "SOUND_WINDOW_UNSTICK" "audio/WindowUnstick.wav"
+  "SOUND_WINDOW_SLIDE" "audio/WindowSlide.wav"
+  "SOUND_WINDOW_SLIDE_END" "audio/WindowSlideEnd.wav"
+1000

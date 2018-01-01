@@ -1,0 +1,37 @@
+neptune-settings-e16 (1.4) stretch; urgency=medium
+
+  * Fixed .Xresources file copying
+  * Set environment variables to successfully start qasmixer
+
+ -- Leszek Lesner <leszek@zevenos.com>  Tue, 20 Jun 2017 19:01:31 +0200
+
+neptune-settings-e16 (1.3) stretch; urgency=medium
+
+  * Replaced tinymount with udiskie
+  * Autostart udiskie by default
+
+ -- Leszek Lesner <leszek@zevenos.com>  Tue, 20 Jun 2017 16:15:20 +0200
+
+neptune-settings-e16 (1.2) unstable; urgency=medium
+
+  * Added tinymount to recommends
+  * Autostart tinymount by default
+
+ -- Leszek Lesner <leszek@zevenos.com>  Sat, 18 Feb 2017 00:00:39 +0100
+
+neptune-settings-e16 (1.1) unstable; urgency=medium
+
+  * Added gsimplecal and notify-osd to dependencies
+  * Updated e16 config to not allow shutdown, reboot in logout dialog
+  * Configure tint2 to use gsimplecal by left clicking and show battery
+    indicator
+  * Added notify-osd as notification daemon
+  * Removed the sleep 2 in autostart
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 13 Feb 2017 21:42:46 +0100
+
+neptune-settings-e16 (1.0) unstable; urgency=medium
+
+  * Initial release
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 13 Feb 2017 12:19:09 +0200

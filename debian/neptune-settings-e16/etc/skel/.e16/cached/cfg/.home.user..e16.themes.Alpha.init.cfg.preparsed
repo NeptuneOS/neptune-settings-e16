@@ -1,0 +1,36 @@
+1001 1
+5 999;  100 "STARTUP_BACKGROUND"
+  560 "128 128 128"
+  561 "artwork/backgrounds/startup.jpg" 1 1 0 0 0 0
+1000
+12  999
+  100 STARTUP_BAR
+  5 "artwork/general/dragbar_horz.png"
+  357 4 4 4 4
+1000
+12  999
+  100 PROGRESS_BAR
+  5 "artwork/borders/def_title_inactive.png"
+  357 15 15 2 2
+  352 "artwork/borders/def_title_active.png"
+  357 15 15 2 2
+  354 "artwork/dialogs/button_inactive.png"
+  357 15 15 2 2
+  358 10 10 3 3
+1000
+1  999
+  100 "PROGRESS_TEXT"
+  201 0
+  5 "*font-init"
+  204  1
+  205 0 0 0
+  206 180 180 180
+1000
+1  999
+  100 "PROGRESS_TEXT_NUMBER"
+  201 512
+  5 "*font-init"
+  204  1
+  205 0 0 0
+  206 180 180 180
+1000

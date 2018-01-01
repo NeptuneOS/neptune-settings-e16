@@ -1,0 +1,13 @@
+Source: neptune-settings-e16
+Section: admin
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.7.2
+
+Package: neptune-settings-e16
+Architecture: all
+Depends: e16
+Recommends: rxvt-unicode, gmrun, tint2, qasmixer, notify-osd, gsimplecal, udiskie
+Description: Settings package for Neptunes e16 low memory mode
+  This package provides the neptune settings for e16.
